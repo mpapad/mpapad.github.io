@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Funded Projects"
+  - title: "FundedProjects"
     url: /projects/    
 
-  - title: "Peer Esteem"
+  - title: "PeerEsteem"
     url: /esteem/    
         
-  - title: "Tools and Data Sets"
+  - title: "ToolsandDataSets"
     url: /tools/
         
  - title: "Students"
