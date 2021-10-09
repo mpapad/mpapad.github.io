@@ -1,7 +1,10 @@
 ---
-layout: post
-title: Peer Esteem
+layout: archive
+title: "Peer Esteem"
+permalink: /esteem/
+author_profile: true
 ---
+
 ##  Awards & Honours
 Facebook Research Award Finalist at the Facebook 2021 RFP on “agent-based user interaction simulation to find and fix integrity and privacy issues” - Project [“Refining state equivalence relations for effective metamorphic testing”](https://research.fb.com/blog/2021/09/announcing-the-winners-of-the-2021-rfp-on-agent-based-user-interaction-simulation-to-find-and-)
 
