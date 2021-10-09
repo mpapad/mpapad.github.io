@@ -1,27 +1,25 @@
 # main links links
 main:
-  - title: "Publications" 
+  - title: "Publications"
     url: /publications/
     
-  - title: "Funded Projects" 
+  - title: "Funded Projects"
     url: /projects/    
-
-  - title: "Peer Esteem" 
+    
+  - title: "Peer Esteem"
     url: /esteem/
     
-  - title: "Mutation Testing" 
+  - title: "Mutation Testing"
     url: https://mutationtesting.uni.lu/
     
-  - title: "Tools and Datasets" 
+  - title: "Tools and Datasets"
     url: /tools/
-        
- - title: "Students" 
+    
+ - title: "Students"
     url: /students/
     
-  - title: "Contact" 
+  - title: "Contact"
     url: /contact/
     
-  - title: "CV" 
+  - title: "CV"
     url: /cv/
-    
-
