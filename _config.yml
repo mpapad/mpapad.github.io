@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mike Papadakis"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   bio              : "Senior Research Scientist, SnT, University of Luxembourg"
   location         : "Luxembourg"
   employer         :
@@ -89,6 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  dblp             : "https://dblp.org/pid/00/7677.html"
   uri              :
   bitbucket        :
   codepen          :
