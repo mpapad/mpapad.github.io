@@ -1,6 +1,8 @@
 ---
-layout: post
-title: Tools & Datasets
+layout: archive
+title: "Tools"
+permalink: /tools/
+author_profile: true
 ---
 
 COVID-19 Adaptive Exit Strategies simulator: A tool that simulates the impact of different confinement measures on the spread of COVID-19 virus. https://serval-snt.github.io/covid19/
