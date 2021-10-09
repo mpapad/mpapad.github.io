@@ -3,23 +3,30 @@ main:
   - title: "Publications"
     url: /publications/
   
+
   - title: "Funded Projects"
     url: /projects/    
     
+
   - title: "Peer Esteem"
     url: /esteem/
     
+
   - title: "Mutation Testing"
     url: https://mutationtesting.uni.lu/
     
+
   - title: "Tools and Datasets"
     url: /tools/
     
- - title: "Students"
+
+  - title: "Students"
     url: /students/
     
+
   - title: "Contact"
     url: /contact/
     
+
   - title: "CV"
     url: /cv/
