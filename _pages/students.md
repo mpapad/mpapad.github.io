@@ -4,7 +4,6 @@ title: "Students"
 permalink: /students/
 author_profile: true
 ---
-
 ## Current Students
 Hilal Taha: PhD Advisor (University of Luxembourg, November 2021 - Present)
 
