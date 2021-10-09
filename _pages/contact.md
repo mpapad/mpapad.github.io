@@ -8,9 +8,11 @@ author_profile: true
 ##  Address
 University of Luxembourg - Interdisciplinary Centre for Security, Reliability and Trust (SnT),
 
-4 rue Alphonse Weicker,
+Campus Kirchberg, Université du Luxembourg
 
-L-2721 Luxembourg,
+6, rue Richard Coudenhove-Kalergi
+
+L-1359 Luxembourg
 
 T. +352 46 66 44 5672
 
