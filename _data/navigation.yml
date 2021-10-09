@@ -8,9 +8,6 @@ main:
 
   - title: "Peer Esteem"
     url: /esteem/    
-
-  - title: "Mutation Testing"
-    url: https://mutationtesting.uni.lu/
         
   - title: "Tools and Data Sets"
     url: /tools/
