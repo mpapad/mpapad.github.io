@@ -1,6 +1,8 @@
 ---
-layout: post
-title: Projects
+layout: archive
+title: "Students"
+permalink: /students/
+author_profile: true
 ---
 
 ## Current Students
