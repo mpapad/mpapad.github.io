@@ -33,7 +33,7 @@ Duration: 3 years: from 01-07-2020 to 30-06-2023.
 
 This is an FNR INTER (bilateral) funding, supporting a PostDoc (UL), 2 researchers (CEA-LIST) and an industrial partner (MERCE). I am the principal investigator (UL), Nikolai Kosmatov (CEA-LIST) and David Mentre (MERCE). The project was written together with Nikolai and we both significantly contribute to its implementation. The project is about designing generic and efficient testing techniques and tools. The target is the test input generation, detection of polluting test objectives and test assessment with focus on industrial practice. 
 
-Duration: 3 years: from 1-1-2019 to 31-12-2021.
+Duration: 3 years: from 1-1-2019 to 31-12-2022.
 
 ## PAYPAL: “Assessing and Improving the PayPal DevOps practice”.
 This is industrial competitive funding, part of the SnT partnership program, with PayPal (PayPal CA) company. The project supports 2 PhDs and a PostDoc. I am the leading researcher of the project, supervising the PostDoctoral researcher and significantly contribute to the project implementation. The project is about efficient and effective testing of the PayPal DevOps practice. In particular the project deals with the application and support of mutation testing within the development practice of the company.
