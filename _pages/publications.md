@@ -28,6 +28,8 @@ Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, ICCV Workshop, 2021.
 
+William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2021, pp.
+
 ## 2020
 
 Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
