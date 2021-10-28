@@ -81,9 +81,9 @@ Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbe
 
 Jabier Martinez, Tewfik Ziadi, Mike Papadakis, Tegawende F. Bissyande, Jacques Klein, Yves le Traon, [“Benchmark for feature location techniques using Eclipse variants”](pdfs/IST2018.pdf), in Information & software Technology Journal (IST), vol. 104, 2018, pp. 46-59.
 
-Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis, Nicos Malevris and Yves Le Traon. [“How Effective Mutation Testing Tools Are? An Empirical Analysis of Java Mutation Testing Tools with Manual Analysis and Real Faults”](/pdfs/EMSE2018.pdf), in Empirical Software Engineering Journal (EMSE), vol. 23, no. 4, 2018, pp. 2426-2463.
+Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis, Nicos Malevris and Yves Le Traon. [“How Effective Mutation Testing Tools Are? An Empirical Analysis of Java Mutation Testing Tools with Manual Analysis and Real Faults”](pdfs/EMSE2018.pdf), in Empirical Software Engineering Journal (EMSE), vol. 23, no. 4, 2018, pp. 2426-2463.
 
-Marinos Kintis, Mike Papadakis, Yue Jia, Nicos Malevris, Yves Le Traon, and Mark Harman, [“Detecting Trivial Mutant Equivalences via Compiler Optimisations”](/pdfs/TSE2018.pdf), in IEEE Transactions on Software Engineering Journal (TSE), vol. 44, no. 4, 2018, pp. 308-333.
+Marinos Kintis, Mike Papadakis, Yue Jia, Nicos Malevris, Yves Le Traon, and Mark Harman, [“Detecting Trivial Mutant Equivalences via Compiler Optimisations”](pdfs/TSE2018.pdf), in IEEE Transactions on Software Engineering Journal (TSE), vol. 44, no. 4, 2018, pp. 308-333.
 
 Mike Papadakis, Donghwan Shin, Shin Yoo and Doo-Hwan Bae, [“Are Mutation Scores Correlated with Real Fault Detection? A Large Scale Empirical study on the Relationship Between Mutants and Real Faults”](pdfs/ICSE2018.pdf), in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 537-548.
 
@@ -107,15 +107,15 @@ Renaud Rwemalika, Marinos Kintis, Mike Papadakis and Yves Le Traon. [“Can we a
 
 ## 2017
 
-Li Li, Tegawende F. Bissyande, Mike Papadakis, Siegfried Rasthofer, Alexandre Bartel, Damien Octeau, Jacques Klein, and Yves Le Traon, [“Static Analysis of Android Apps: A Systematic Literature Review”](/pdfs/IST2017.pdf), in Information & Software Technology journal (IST), vol. 88, 2017 pp. 67-95.
+Li Li, Tegawende F. Bissyande, Mike Papadakis, Siegfried Rasthofer, Alexandre Bartel, Damien Octeau, Jacques Klein, and Yves Le Traon, [“Static Analysis of Android Apps: A Systematic Literature Review”](pdfs/IST2017.pdf), in Information & Software Technology journal (IST), vol. 88, 2017 pp. 67-95.
 
-Titcheu Chekam Thierry, Mike Papadakis, Yves Le Traon and Mark Harman, [“Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption”](/pdfs/ICSE2017.pdf), in the 39th International Conference on Software Engineering (ICSE), 2017, pp. 597-608.
+Titcheu Chekam Thierry, Mike Papadakis, Yves Le Traon and Mark Harman, [“Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption”](pdfs/ICSE2017.pdf), in the 39th International Conference on Software Engineering (ICSE), 2017, pp. 597-608.
 
-Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. [“Automata Language Equivalence vs. Simulations for Model-based Mutant Equivalence: An Empirical Evaluation”](/pdfs/ICST2017b.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, pp. 424-429.
+Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. [“Automata Language Equivalence vs. Simulations for Model-based Mutant Equivalence: An Empirical Evaluation”](pdfs/ICST2017b.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, pp. 424-429.
 
-Thomas Laurent, Mike Papadakis, Marinos Kintis, Christopher Henard, Yves Le Traon and Anthony Ventresque. [“Assessing and Improving the Mutation Testing Practice of PIT”](/pdfs/ICST2017.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, 430-435.
+Thomas Laurent, Mike Papadakis, Marinos Kintis, Christopher Henard, Yves Le Traon and Anthony Ventresque. [“Assessing and Improving the Mutation Testing Practice of PIT”](pdfs/ICST2017.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, 430-435.
 
-Thomas Loise, Xavier Devroey, Gilles Perrouin, Mike Papadakis and Patrick Heymans. [“Towards Security-aware Mutation Testing”](/pdfs/Mutation2017.pdf), in the 12th International Workshop on Mutation Analysis (MUTATION), 2017, pp. 97-102.
+Thomas Loise, Xavier Devroey, Gilles Perrouin, Mike Papadakis and Patrick Heymans. [“Towards Security-aware Mutation Testing”](pdfs/Mutation2017.pdf), in the 12th International Workshop on Mutation Analysis (MUTATION), 2017, pp. 97-102.
 
 ## 2016
 
