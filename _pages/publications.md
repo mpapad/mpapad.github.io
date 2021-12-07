@@ -20,6 +20,8 @@ Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“I
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions”](), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
+Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](), in the 15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022.
+
 ## 2021
 Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
 
