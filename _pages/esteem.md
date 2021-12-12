@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ##  Awards & Honours
-Facebook Research Award Finalist at the Facebook 2021 RFP on “agent-based user interaction simulation to find and fix integrity and privacy issues” - Project [“Refining state equivalence relations for effective metamorphic testing”](https://research.fb.com/blog/2021/09/announcing-the-winners-of-the-2021-rfp-on-agent-based-user-interaction-simulation-to-find-and-)
+
+**Best Paper Award (IEEE Reliability Society)** at the 21st IEEE International Conference on Software Security and Reliability (QRS) 2021. Paper title: “Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”.
+
+**Facebook Research Award Finalist at the Facebook 2021 RFP** on “agent-based user interaction simulation to find and fix integrity and privacy issues” - Project [“Refining state equivalence relations for effective metamorphic testing”](https://research.fb.com/blog/2021/09/announcing-the-winners-of-the-2021-rfp-on-agent-based-user-interaction-simulation-to-find-and-)
 
 **Most Impactful Software Engineering Researcher.** A bibliometric study by Wong et al. “A bibliometric assessment of software engineering themes, scholars and institutions (2013-2020)”, Journal of Systems and Software, June 2021, ranks me among the top-20 “Most Impactful” consolidator stage Software Engineering researchers.
 
