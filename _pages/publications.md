@@ -37,6 +37,8 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack S
 
 William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2021, pp. **Best paper award**
 
+Maxime Cordy, Sami Lazreg, Mike Papadakis, Axel Legay. [“Statistical model checking for variability-intensive systems: applications to bug detection and minimization](https://doi.org/10.1007/s00165-021-00563-2). Formal Aspects of Computing (2021).
+
 ## 2020
 
 Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
