@@ -18,7 +18,7 @@ author_profile: true
 ## 2022
 Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
-Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“	FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](), in the 44th International Conference on Software Engineering (ICSE), 2022.
+Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions”](), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
