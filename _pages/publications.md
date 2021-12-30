@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2022
+Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](), in IEEE Transactions on Software Engineering Journal (TSE).
+
 Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
 Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](), in the 44th International Conference on Software Engineering (ICSE), 2022.
