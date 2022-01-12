@@ -18,7 +18,7 @@ author_profile: true
 ## 2022
 Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (TSE).
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empiri- cal Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM). To appear.
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM). To appear.
 
 
 Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](), in the 44th International Conference on Software Engineering (ICSE), 2022.
