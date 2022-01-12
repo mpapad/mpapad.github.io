@@ -5,6 +5,8 @@ permalink: /students/
 author_profile: true
 ---
 ## Current Students
+Yu Pei: PhD Advisor (University of Luxembourg, January 2022 - Present)
+
 Hilal Taha: PhD Advisor (University of Luxembourg, November 2021 - Present)
 
 Babbr: PhD Co-Advisor (University of Luxembourg, October 2021 - Present)
@@ -30,8 +32,6 @@ Garg Aayush: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)
 Salah Ghamizi: PhD Co-Advisor (University of Luxembourg, January 2019 - Present) 
 
 Wei Ma: PhD Advisor (University of Luxembourg, December 2018 - Present)
-
-Xavier Schmitt: PhD Advisor (University of Luxembourg, September 2017 - Present)
 
 ## Current PostDocs
 
