@@ -38,7 +38,7 @@ Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. [“MuDelta: Delta-
 
 Guillaume Haben, Sarra Habchi, Mike Papadakis, Maxime Cordy, Le Traon Yves. [“A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests”](pdfs/MSR2021.pdf), in the 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 219-229.
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Exploring the Limitations of Active Learning: An Empirical Study”](pdfs/ASE2021.pdf), in the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp...
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Exploring the Limitations of Active Learning: An Empirical Study”](pdfs/ASE2021.pdf), in the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 917-929.
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, ICCV Workshop, 2021.
 
