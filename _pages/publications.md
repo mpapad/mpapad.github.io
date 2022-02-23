@@ -47,7 +47,7 @@ Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, ICCV Workshop, 2021.
 
-William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2021, pp. **Best paper award**
+William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2021, pp. **Best paper award**.
 
 Maxime Cordy, Sami Lazreg, Mike Papadakis, Axel Legay. [“Statistical model checking for variability-intensive systems: applications to bug detection and minimization](https://doi.org/10.1007/s00165-021-00563-2). Formal Aspects of Computing (2021).
 
@@ -55,13 +55,13 @@ Maxime Cordy, Sami Lazreg, Mike Papadakis, Axel Legay. [“Statistical model che
 
 Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
 
-Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware mutation Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405. **Distinquished paper award**
+Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware mutation Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405. **Distinquished paper award**.
 
 Salah Ghamizi, Maxime Cordy, Martin Gubri, Mike Papadakis, Andrey Boystov, Yves Le Traon, Anne Goujon. [“Search-Based Adversarial Testing and Improvement of Constrained Credit Scoring Systems”](pdfs/FSE2020.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020, pp. 1089-1100.
 
 Zeyu Sun, Jie M. Zhang, Mark Harman, Mike Papadakis, Lu Zhang, [“Automatic Testing and Improvement of Machine Translation”](pdfs/ICSE2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 974-985.
 
-Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand, Mike Papadakis, Jacques Klein and Yves Le Traon. [“Data-driven Simulation and Optimization for Covid-19 Exit-Strategies”](pdfs/KDD2020.pdf), 26th SIGKDD conference on Knowledge Discovery and Data Mining, (KDD), AI for COVID, 2020, pp. 3434-3442. **Best paper award**
+Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand, Mike Papadakis, Jacques Klein and Yves Le Traon. [“Data-driven Simulation and Optimization for Covid-19 Exit-Strategies”](pdfs/KDD2020.pdf), 26th SIGKDD conference on Knowledge Discovery and Data Mining, (KDD), AI for COVID, 2020, pp. 3434-3442. **Best paper award**.
 
 Maxime Cordy, Mike Papadakis and Axel Legay, [“Statistical Model Checking for Variability-Intensive Systems”](pdfs/FASE2020.pdf), in the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE), 2020, pp. 294-314.
 
@@ -78,7 +78,7 @@ Thierry Titcheu Chekam, Mike Papadakis, and Yves Le Traon. [“Mart: A Mutant Ge
 
 Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“Ukwikora: Continuous inspection for Keyword-Driven Testing”](pdfs/ISSTA2019-Tool.pdf), in the International Symposium on Software Testing and Analysis (ISSTA)-Demo, 2019, pp. 402-405.
 
-Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, [“The importance of accounting for real-world labelling when predicting software vulnerabilities”](pdfs/FSE2019.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019, pp. 695-705. **Distinquished paper award**
+Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, [“The importance of accounting for real-world labelling when predicting software vulnerabilities”](pdfs/FSE2019.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019, pp. 695-705. **Distinquished paper award**.
 
 Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“An industrial study on the differences between pre-release and post-release bugs”, in 35th IEEE International Conference on Software Maintenance and Evolution (ICSME)](pdfs/ICSME2019.pdf), 2019, pp. 92-102.
 
@@ -88,9 +88,9 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“Automated sea
 
 Xavier Schmitt, Sylvain Kubler, Jeremy Robert, Mike Papadakis, Yves Le Traon. [“A Replicable Comparison Study of NER Software: StanfordNLP, NLTK, OpenNLP, SpaCy, Gate”](pdfs/SNAMS2019.pdf), in Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), 2019, pp. 338-343.
 
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Semantic Fuzzing with Zest”](pdfs/ISSTA2019B.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 329-340. **Distinquished artifact award**
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Semantic Fuzzing with Zest”](pdfs/ISSTA2019B.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 329-340. **Distinquished artifact award**.
 
-Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”](pdfs/ISSTA2019.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 158-168. **Distinquished artifact award**
+Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”](pdfs/ISSTA2019.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 158-168. **Distinquished artifact award**.
 
 Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“On the Evolution of Keyword-Driven Test Suites”](pdfs/ICST2019.pdf), in the 12th International Conference on Software Testing (ICST), 2019, pp. 335-345.
 
@@ -150,7 +150,7 @@ Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbe
 
 Matthieu Jimenez, Mike Papadakis and Yves Le Traon. [“Vulnerability Prediction Models: A case study on the Linux Kernel”](pdfs/SCAM2016.pdf), in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016, pp. 1-10.
 
-Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis and Nicos Malevris. [“Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study”](pdfs/SCAM2016B.pdf), in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016 pp. 147-156. **Best paper award**
+Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis and Nicos Malevris. [“Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study”](pdfs/SCAM2016B.pdf), in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016 pp. 147-156. **Best paper award**.
 
 Matthieu Jimenez, Mike Papadakis, Tegawende F. Bissyande, and Jacques Klein, [“Profiling Android Vulnerabilities”](pdfs/QRS2016.pdf), in International Conference on Software Quality, Reliability and Security (QRS), 2016, pp. 222-229.
 
