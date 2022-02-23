@@ -55,9 +55,7 @@ Maxime Cordy, Sami Lazreg, Mike Papadakis, Axel Legay. [“Statistical model che
 
 Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
 
-Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware 
-
-ion Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405. **Distinquished paper award**
+Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware mutation Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405. **Distinquished paper award**
 
 Salah Ghamizi, Maxime Cordy, Martin Gubri, Mike Papadakis, Andrey Boystov, Yves Le Traon, Anne Goujon. [“Search-Based Adversarial Testing and Improvement of Constrained Credit Scoring Systems”](pdfs/FSE2020.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020, pp. 1089-1100.
 
