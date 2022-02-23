@@ -18,7 +18,7 @@ author_profile: true
 ## 2022
 Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (TSE).
 
-Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["Commit-Aware Mutation Testing"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (EMSE). 
+Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["On the Use of Commit-Relevant Mutants"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (EMSE). 
 
 
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM). To appear.
