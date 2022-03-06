@@ -20,9 +20,7 @@ Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papad
 
 Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["On the Use of Commit-Relevant Mutants"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (EMSE). 
 
-
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM). To appear.
-
 
 Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](pdfs/ICSE22___Flakime.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
@@ -33,6 +31,8 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robu
 Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](https://arxiv.org/pdf/2112.04919.pdf), in the 15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022.
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](), in the 17th International Workshop on Mutation Analysis (MUTATION), ICST Workshops 2022.
+
+Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](), in the 1st International Conference on AI Engineering – Software Engineering for AI (CAIN) 2022. 
 
 ## 2021
 Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
