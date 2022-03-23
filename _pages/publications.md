@@ -82,7 +82,7 @@ Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorra
 
 Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, [“The importance of accounting for real-world labelling when predicting software vulnerabilities”](pdfs/FSE2019.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019, pp. 695-705. **Distinquished paper award**.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“An industrial study on the differences between pre-release and post-release bugs”, in 35th IEEE International Conference on Software Maintenance and Evolution](pdfs/ICSME2019.pdf), (ICSME) 2019, pp. 92-102.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“An industrial study on the differences between pre-release and post-release bugs”](pdfs/ICSME2019.pdf), in 35th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 92-102.
 
 Claire Leong, Abhayendra Singh, Mike Papadakis, Yves Le Traon and John Micco. [“Assessing Transition-based Test Selection Algorithms at Google”](pdfs/ICSE-SEIP2019.pdf), in the 41st International Conference on Software Engineering (ICSE) SEIP track, 2019, pp. 101-110.
 
