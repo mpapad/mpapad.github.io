@@ -26,7 +26,7 @@ Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [�
 
 Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](pdfs/ICSE22_CAT.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
-Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses."](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (MSR), 2022.
+Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses"](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (MSR), 2022.
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions”](https://arxiv.org/pdf/2110.15053.pdf), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
