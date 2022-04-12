@@ -18,8 +18,10 @@ I’m a Senior Research Scientist at the Luxembourg University, Interdisciplinar
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://conf.researchr.org/home/ssbse-2022">
+      <img src="/images/avatar-icon.png" width="100" height="100">
+</a>
 
-[![SSBSE](/images/avatar-icon.png)](https://conf.researchr.org/home/ssbse-2022) Please consider submitting to [SSBSE 2022](https://conf.researchr.org/home/ssbse-2022)
 
 
 Please consider submitting to the special issue in ["Soft Computing for Engineering of Data-driven and AI-enabled Software Systems"](https://www.journals.elsevier.com/applied-soft-computing/call-for-papers/soft-computing-for-engineering-of-data-driven-and-ai-enabled-software-systems) - Applied Soft Computing, Elsevier 
