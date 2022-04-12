@@ -19,6 +19,8 @@ I’m a Senior Research Scientist at the Luxembourg University, Interdisciplinar
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Tux, the Linux mascot](/images/avatar-icon.png)
+
 Please consider submitting to [SSBSE 2022](https://conf.researchr.org/home/ssbse-2022)
 
 
