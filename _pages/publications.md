@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2022
+Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineer- ing and Methodology Journal (TOSEM).
+
 Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (TSE).
 
 Milos Ojdanic,Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://arxiv.org/pdf/2112.14566), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
