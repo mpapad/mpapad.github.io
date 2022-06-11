@@ -30,13 +30,15 @@ Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [�
 
 Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](pdfs/ICSE22_CAT.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
-Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses"](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (MSR), 2022.
-
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions"](https://arxiv.org/pdf/2110.15053.pdf), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
 Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen [“Efficient and Transferable Adversarial Examples from Bayesian Neural Networks"](), in the 38th Conference on Uncertainty in Artificial Intelligence (UAI) 2022.
 
+Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses"](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (MSR), 2022.
+
 Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](https://arxiv.org/pdf/2112.04919.pdf), in the 15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022.
+
+Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](), in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022.
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
 
