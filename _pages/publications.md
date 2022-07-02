@@ -24,6 +24,8 @@ Milos Ojdanic,Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Tr
 
 Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["On the Use of Commit-Relevant Mutants"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (EMSE). 
 
+Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://arxiv.org/pdf/2012.11701),  in Empirical Software Engineering Journal (EMSE).
+
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
 Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](pdfs/ICSE22___Flakime.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
