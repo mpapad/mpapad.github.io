@@ -38,6 +38,8 @@ author_profile: true
 Honor (performance) **Scholarship**, MSc in Computer Science ( 2003 - 2004 ). 
 
 ## Keynotes
+12th BElgian-NEtherlands software eVOLution symposium (BENEVOL22). Keynote talk, title “Applying Mutation Testing in Evolving Systems”, 12-13 September, 2022.
+
 3rd ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2021), “Adversarial Attacks in ML-Enabled Systems”, 21-24 June 2021 - Kamakura, Japan. 
 
 Mutation Testing workshop (MUTATION 2020): Keynote talk, title “Continuous Mutation Testing”, October 24th, 2020.
@@ -98,6 +100,8 @@ Distinguished Reviewer Board - Journal of Systems and Software Elsevier. “Spec
 
 ### Guest Editor:
 
+Information and Software Technology journal (IST), Special issue of International Symposium on Search Based Software Engineering.
+
 Applied Soft Computing journal, Special Issue on Software Engineering for Data-driven and AI-enabled Systems.
 
 Software Testing, Validation and Verification (STVR), Special issue on Mutation Analysis 2020.
@@ -108,9 +112,11 @@ International Journal on Software and Systems Modeling (SoSyM), Special issue on
 
 ### Steering Committee Member:
 
-IEEE International Conference on Software Testing (ICST). Years 2019-2021. 
+IEEE International Conference on Software Maintenance and Evolution (ICSME). Years 2021-2024.
 
-Symposium on Search-Based Software Engineering (SSBSE). Years 2019-2021. 
+IEEE International Conference on Software Testing (ICST). Years 2019-2022. 
+
+Symposium on Search-Based Software Engineering (SSBSE). Years 2019-2022. 
 
 ### General Chair:
 
@@ -119,6 +125,11 @@ Symposium on Search-Based Software Engineering (SSBSE). Years 2019-2021.
 The 18th Belgium-Netherlands Software Evolution Workshop (BENEVOL 2020).
 
 ### Program Chair:
+
+16th IEEE International Conference on Software Testing, (ICST 2023) - Research track, Program Co-Chair.
+
+14th Symposium on Search-Based Software Engineering (SSBSE 2022) - Research track, Program Co-Chair.
+
 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022) - Registered Reports track Co-Chair.
 
 15th IEEE International Conference on Software Testing, (ICST 2022) - Poster track Co-Chair.
