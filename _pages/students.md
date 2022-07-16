@@ -9,11 +9,9 @@ Yu Pei: PhD Advisor (University of Luxembourg, January 2022 - Present)
 
 Hilal Taha: PhD Advisor (University of Luxembourg, November 2021 - Present)
 
-Babbr: PhD Co-Advisor (University of Luxembourg, October 2021 - Present)
+Badr Souani: PhD Co-Advisor (University of Luxembourg, October 2021 - Present)
 
 Xueqi Dang: PhD Advisor (University of Luxembourg, August 2021 - Present)
-
-Boyang Zhang: PhD Advisor (University of Luxembourg, March 2021 - Present)
 
 Luiz Carvalho: PhD Advisor (University of Luxembourg, February 2021 - Present)
 
@@ -31,9 +29,10 @@ Garg Aayush: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)
 
 Salah Ghamizi: PhD Co-Advisor (University of Luxembourg, January 2019 - Present) 
 
-Wei Ma: PhD Advisor (University of Luxembourg, December 2018 - Present)
 
 ## Current PostDocs
+
+Wei Ma (Research Associate, June 2022 - Present)
 
 Jeongju Sohn (Research Associate, October 2021 - Present)
 
@@ -45,11 +44,11 @@ Matthieu Jimenez (Research Associate, August 2020 - Present)
 
 Ezekiel Soremekun (Research Associate, August 2020 - Present)
 
-Sarra Habchi (Research Associate, May 2020 - Present)
-
 Renzo Degiovanni (Research Associate, May 2019 - Present)
 
 ## Former Students
+
+Wei Ma: PhD Advisor (University of Luxembourg, December 2018 - May 2022)
 
 Renaud Rwemalika: PhD Co-Advisor (University of Luxembourg, October 2017 - September 2021)
 
@@ -62,6 +61,8 @@ Souza Carlos: PhD, Co-Advisor (University of Sa Paulo, Brazil, September 2012 - 
 Christopher Henard: PhD, Co-Advisor (University of Luxembourg, September 2011 - May 2015)
 
 ## Former PostDocs
+
+Sarra Habchi (Research Associate, May 2020 - April 2022)
 
 Thierry Titcheu Chekam (Research Associate, October 2019 - January 2021) 
 
