@@ -42,6 +42,8 @@ Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Ma
 
 Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](https://arxiv.org/pdf/2112.04919.pdf), in the 15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022.
 
+Jeongju Sohn and Mike Papadakis. ["Using Evolutionary Coupling to Establish Relevance Links Between Tests and Code Units. A case study on fault localization"](), in the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE) 2022.
+
 Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](), in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022.
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
