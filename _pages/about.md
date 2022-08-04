@@ -27,6 +27,4 @@ I’m a Senior Research Scientist at the Luxembourg University, Interdisciplinar
       <img src="/images/ICST.jpeg" width="100" height="100">
 </a>
 
-Please consider submitting to the special issue in ["Soft Computing for Engineering of Data-driven and AI-enabled Software Systems"](https://www.journals.elsevier.com/applied-soft-computing/call-for-papers/soft-computing-for-engineering-of-data-driven-and-ai-enabled-software-systems) - Applied Soft Computing, Elsevier 
-
 
