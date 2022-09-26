@@ -22,6 +22,8 @@ Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papad
 
 Milos Ojdanic,Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://arxiv.org/pdf/2112.14566), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
+Renaud Rwemalika, Sarra Habchi, Mike Papadakis, Yves Le Traon, Marie-Claude Brasseur. ["Smells in System User Interactive Tests"](https://arxiv.org/pdf/2111.02317.pdf), in Empirical Software Engineering Journal (EMSE). 
+
 Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["On the Use of Commit-Relevant Mutants"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (EMSE). 
 
 Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://arxiv.org/pdf/2012.11701),  in Empirical Software Engineering Journal (EMSE).
