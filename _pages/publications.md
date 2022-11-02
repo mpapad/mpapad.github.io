@@ -36,7 +36,7 @@ Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“I
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions"](https://arxiv.org/pdf/2110.15053.pdf), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
-Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. ["Boosting Adversarial Exam- ple Transferability from Geometric Vicinity"](), in the European Conference on Computer Vision (ECCV) 2022.
+Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. ["Boosting Adversarial Example Transferability from Geometric Vicinity"](), in the European Conference on Computer Vision (ECCV) 2022.
 
 Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen [“Efficient and Transferable Adversarial Examples from Bayesian Neural Networks"](), in the 38th Conference on Uncertainty in Artificial Intelligence (UAI) 2022.
 
