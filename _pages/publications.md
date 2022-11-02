@@ -30,30 +30,32 @@ Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Y
 
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
+Yuejun Guo, Qiang Hu, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["DRE: density-based data selec- tion with entropy for adversarial-robust deep learning models"](https://link.springer.com/content/pdf/10.1007/s00521-022-07812-2.pdf), in Neural Computing and Applications (2022). To appear.
+
 Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](pdfs/ICSE22___Flakime.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
 Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](pdfs/ICSE22_CAT.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions"](https://arxiv.org/pdf/2110.15053.pdf), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
-Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. ["Boosting Adversarial Example Transferability from Geometric Vicinity"](), in the European Conference on Computer Vision (ECCV) 2022.
+Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. ["Boosting Adversarial Example Transferability from Geometric Vicinity"](https://arxiv.org/pdf/2207.13129), in the European Conference on Computer Vision (ECCV) 2022.
 
-Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen [“Efficient and Transferable Adversarial Examples from Bayesian Neural Networks"](), in the 38th Conference on Uncertainty in Artificial Intelligence (UAI) 2022.
+Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen [“Efficient and Transferable Adversarial Examples from Bayesian Neural Networks"](https://arxiv.org/pdf/2011.05074), in the 38th Conference on Uncertainty in Artificial Intelligence (UAI) 2022.
 
 Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses"](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (MSR), 2022.
 
 Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](https://arxiv.org/pdf/2112.04919.pdf), in the 15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022.
 
-Jeongju Sohn and Mike Papadakis. ["CEMENT: On the use of Evolutionary Coupling between tests and code units. A case study on fault localization"](), in the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE) 2022.
+Jeongju Sohn and Mike Papadakis. ["CEMENT: On the use of Evolutionary Coupling between tests and code units. A case study on fault localization"](https://arxiv.org/pdf/2203.11343), in the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE) 2022.
 
-Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](), in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022.
+Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](https://arxiv.org/pdf/2207.10143), in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022.
 
 Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
 
-Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](), in the 1st International Conference on AI Engineering – Software Engineering for AI (CAIN) 2022. 
+Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](https://arxiv.org/pdf/2012.07381.pdf), in the 1st International Conference on AI Engineering – Software Engineering for AI (CAIN) 2022. 
 
 ## 2021
 Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
