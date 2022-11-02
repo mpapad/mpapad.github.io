@@ -48,6 +48,9 @@ Jeongju Sohn and Mike Papadakis. ["CEMENT: On the use of Evolutionary Coupling b
 
 Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](), in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022.
 
+Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
+
+
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
 
 Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](), in the 1st International Conference on AI Engineering – Software Engineering for AI (CAIN) 2022. 
