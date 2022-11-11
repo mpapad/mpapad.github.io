@@ -30,7 +30,7 @@ Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Y
 
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
-Yuejun Guo, Qiang Hu, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["DRE: density-based data selec- tion with entropy for adversarial-robust deep learning models"](https://link.springer.com/content/pdf/10.1007/s00521-022-07812-2.pdf), in Neural Computing and Applications (2022). 
+Yuejun Guo, Qiang Hu, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["DRE: density-based data selection with entropy for adversarial-robust deep learning models"](https://link.springer.com/content/pdf/10.1007/s00521-022-07812-2.pdf), in Neural Computing and Applications (2022). 
 
 Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](pdfs/ICSE22___Flakime.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
 
@@ -52,6 +52,7 @@ Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Max
 
 Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
+Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulner- ability Intent Bug Seeding"](), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
 
