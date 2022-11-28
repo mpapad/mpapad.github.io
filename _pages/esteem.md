@@ -38,15 +38,20 @@ author_profile: true
 Honor (performance) **Scholarship**, MSc in Computer Science ( 2003 - 2004 ). 
 
 ## Keynotes
-12th BElgian-NEtherlands software eVOLution symposium (BENEVOL22). Keynote talk, title “Applying Mutation Testing in Evolving Systems”, 12-13 September, 2022.
 
-3rd ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2021), “Adversarial Attacks in ML-Enabled Systems”, 21-24 June 2021 - Kamakura, Japan. 
+13th International Workshop on Automating Test Case Design, Selection and Evaluation (A-TEST'22), “Mutation Testing in Evolving Systems”, 18th November 2022, Singapore. 
 
-Mutation Testing workshop (MUTATION 2020): Keynote talk, title “Continuous Mutation Testing”, October 24th, 2020.
+6th International Workshop on Machine Learning Techniques for Software Quality Evolution (MaLTeSQuE'22), “Best practices in the (empirical) assessment of deep learning testing methods”, 18th November 2022, Singapore.
+
+12th BElgian-NEtherlands software eVOLution symposium (BENEVOL'22). Keynote talk, title “Applying Mutation Testing in Evolving Systems”, 12-13 September, 2022.
+
+3rd ACNS Workshop on Security in Machine Learning and its Applications (SiMLA'21), “Adversarial Attacks in ML-Enabled Systems”, 21-24 June 2021 - Kamakura, Japan. 
+
+Mutation Testing workshop (MUTATION'20): Keynote talk, title “Continuous Mutation Testing”, October 24th, 2020.
 
 Methodes de Test pour la Verification et la Validation (MTV2) workshop (annual workshop of the CNRS research group): Keynote talk, title “Mutation Testing Advances”, December 7th, 2018.
 
-BElgian-NEtherlands software eVOLution symposium (BENEVOL17). Keynote talk, title “Mutation Testing Advances”, 4th and 5th December, 2017.
+BElgian-NEtherlands software eVOLution symposium (BENEVOL'17). Keynote talk, title “Mutation Testing Advances”, 4th and 5th December, 2017.
 
 ## Invited Talks & Seminars
 NUAA-International Workshop on Software Reliability (NUAA-IWSR) “Mutation Testing Advances”, August 13, 2020, Nanjing, China.
