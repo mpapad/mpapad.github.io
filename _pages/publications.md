@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2023
+Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluating the Impact of Experimental Assumptions in Automated  Fault Localization”](), in the 45th International Conference on Software Engineering (ICSE), 2023.
+
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](), in the 45th International Conference on Software Engineering (ICSE), 2023.
+
+Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices](), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
+
 ## 2022
 Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
 
