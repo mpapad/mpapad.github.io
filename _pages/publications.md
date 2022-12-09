@@ -96,7 +96,7 @@ Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand
 
 Maxime Cordy, Mike Papadakis and Axel Legay, [“Statistical Model Checking for Variability-Intensive Systems”](pdfs/FASE2020.pdf), in the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE), 2020, pp. 294-314.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“FeatureNET: Diversity-driven Generation of Deep Learning Models”](pdfs/ICSE-Tool2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 41-44.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“FeatureNET: Diversity-driven Generation of Deep Learning Models”](pdfs/ICSE-Tool2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), tool demo track, 2020, pp. 41-44.
 
 Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon, [“Muteria: An Extensible and Flexible Multi-Criteria Software Testing Framework”](pdfs/AST2020.pdf), in the 1st IEEE/ACM International Conference on Automation of Software Test (AST), 2020, pp. 97-100.
 
@@ -125,7 +125,7 @@ Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based T
 
 Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“On the Evolution of Keyword-Driven Test Suites”](pdfs/ICST2019.pdf), in the 12th International Conference on Software Testing (ICST), 2019, pp. 335-345.
 
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](https://mpapad.github.io/Publications/), in the 41st International Conference on Software Engineering (ICSE), 2019, pp. 266-267.
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](https://mpapad.github.io/Publications/), in the 41st International Conference on Software Engineering (ICSE), poster track, 2019, pp. 266-267.
 
 ## 2018
 
@@ -153,7 +153,7 @@ Matthieu Jimenez, Yves Le Traon and Mike Papadakis. [“Enabling the Continous A
 
 Matthieu Jimenez, Maxime Cordy, Yves Le Traon and Mike Papadakis. [“TUNA: TUning Naturalness-based Analysis”](pdfs/ICSME2018-Artifact.pdf), in the International Conference on Software Maintenance and Evolution (ICSME), (Artifacts) 2018, pp. 715.
 
-Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande and Yves Le Traon. [“Poster: Predicting the Fault Revelation Utility of Mutants”](pdfs/ICSE2018-Poster.pdf), in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 408-409.
+Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande and Yves Le Traon. [“Poster: Predicting the Fault Revelation Utility of Mutants”](pdfs/ICSE2018-Poster.pdf), in the 40th International Conference on Software Engineering (ICSE), poster track, 2018, pp. 408-409.
 
 Renaud Rwemalika, Marinos Kintis, Mike Papadakis and Yves Le Traon. [“Can we automate away the main challenges of end-to-end testing?”](pdfs/BENEVOL2018.pdf), in the 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), 2018.
 
