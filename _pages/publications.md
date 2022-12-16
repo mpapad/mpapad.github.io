@@ -20,6 +20,8 @@ Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluatin
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](), in the 45th International Conference on Software Engineering (ICSE), 2023.
 
+Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
+
 Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices](), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
 
 ## 2022
