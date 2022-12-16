@@ -61,9 +61,11 @@ Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Max
 
 Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
-Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulner- ability Intent Bug Seeding"](), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
+Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulnerability Intent Bug Seeding"](), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
+
+Yu Pei, Sarra Habchi, Renaud Rwemalika, Jeongju Sohn, Mike Papadakis. ["An empirical study of async wait flakiness in front-end testing"](https://ceur-ws.org/Vol-3245/paper7.pdf). Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2022.
 
 Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](https://arxiv.org/pdf/2012.07381.pdf), in the 1st International Conference on AI Engineering – Software Engineering for AI (CAIN) 2022. 
 
