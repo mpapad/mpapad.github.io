@@ -22,7 +22,7 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le
 
 Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices](), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
+Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices](https://arxiv.org/pdf/2212.08130), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
 
 ## 2022
 Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
@@ -61,7 +61,7 @@ Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Max
 
 Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
-Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulnerability Intent Bug Seeding"](), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
+Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulnerability Intent Bug Seeding"](pdfs/Vulnerability_Injection___QRS_2022.pdf), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
 
 Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
 
