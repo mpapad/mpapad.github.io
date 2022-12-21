@@ -22,7 +22,7 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le
 
 Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
 
-Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](), in 26th International Conference on Fun- damental Approaches to Software Engineering (FASE), 2023.
+Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices](https://arxiv.org/pdf/2212.08130.pdf), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
 
