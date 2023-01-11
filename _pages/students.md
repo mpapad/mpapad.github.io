@@ -5,9 +5,9 @@ permalink: /students/
 author_profile: true
 ---
 ## Current Students
-<!---
-Jokar Jandaghi: PhD Co-Advisor (Join diploma between University of Groningen & University of Luxembourg, November 2022 - Present).
--->
+
+[comment]: # (Jokar Jandaghi: PhD Co-Advisor (Join diploma between University of Groningen & University of Luxembourg, November 2022 - Present).)
+
 Yu Pei: PhD Advisor (University of Luxembourg, January 2022 - Present)
 
 Hilal Taha: PhD Advisor (University of Luxembourg, November 2021 - Present)
