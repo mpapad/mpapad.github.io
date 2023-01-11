@@ -26,7 +26,7 @@ Guillaume HABEN: PhD Co-Advisor (University of Luxembourg, September 2019 - Pres
 
 Martin GUBRI: PhD Co-Advisor (University of Luxembourg, September 2019 - Present)
 
-Ahmed KHANFIR: PhD Co-Advisor (University of Luxembourg, July 2019 - Present) 
+<!---Ahmed KHANFIR: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)--->
 
 Garg Aayush: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)
 
