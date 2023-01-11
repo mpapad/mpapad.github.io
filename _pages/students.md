@@ -38,7 +38,7 @@ Salah Ghamizi: PhD Co-Advisor (University of Luxembourg, September 2022 - Presen
 
 Jeongju Sohn (Research Associate, October 2021 - Present)
 
-Matthieu Jimenez (Research Associate, August 2020 - Present)
+<!---Matthieu Jimenez (Research Associate, August 2020 - Present)--->
 
 Renzo Degiovanni (Research Associate, May 2019 - Present)
 
