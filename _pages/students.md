@@ -5,19 +5,20 @@ permalink: /students/
 author_profile: true
 ---
 ## Current Students
+<!---
 Jokar Jandaghi: PhD Co-Advisor (Join diploma between University of Groningen & University of Luxembourg, November 2022 - Present).
-
+-->
 Yu Pei: PhD Advisor (University of Luxembourg, January 2022 - Present)
 
 Hilal Taha: PhD Advisor (University of Luxembourg, November 2021 - Present)
 
-Badr Souani: PhD Co-Advisor (University of Luxembourg, October 2021 - Present)
+Badr Souani: PhD Co-Advisor (University of Luxembourg, October 2021 - Present)<!---
 
-Xueqi Dang: PhD Advisor (University of Luxembourg, August 2021 - Present)
+Xueqi Dang: PhD Advisor (University of Luxembourg, August 2021 - Present)-->
 
-Luiz Carvalho: PhD Advisor (University of Luxembourg, February 2021 - Present)
+Luiz Carvalho: PhD Advisor (University of Luxembourg, February 2021 - Present)<!---
 
-Qiang Hu: PhD Co-Advisor (University of Luxembourg, September 2020 - Present)
+Qiang Hu: PhD Co-Advisor (University of Luxembourg, September 2020 - Present)-->
 
 Milos Ojdanic: PhD Advisor (University of Luxembourg, October 2019 - Present)
 
