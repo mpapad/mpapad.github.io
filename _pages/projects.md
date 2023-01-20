@@ -21,6 +21,12 @@ All in all, the TestFlakes project aims at providing ways for mitigating the eff
 
 Duration: 3 years: from 01-06-2021 to 30-05-2024.
 
+## PAYPAL: “Assessing and Improving the PayPal DevOps practice”.
+This is industrial competitive funding, part of the SnT partnership program, with PayPal (PayPal CA) company. The project is about efficient and effective testing of the PayPal DevOps practice. In particular the project deals with the application and support of mutation testing within the development practice of the company.
+
+Duration: 3 years: from 01-01-2020 to 31/08/2023 
+
+
 ## RESCOM - ICSME: “Organizing ICSME in Luxembourg”. Fonds National de la Researche Luxembourg - RESCOM.
 
 This is an FNR RESCOM project to support the 37th IEEE International Conference on Software Maintenance and Evolution organization (ICSME’21) in Luxembourg.
@@ -40,11 +46,6 @@ Duration: 3 years: from 01-07-2020 to 30-06-2023.
 This is an FNR INTER (bilateral) project with CEA-LIST and an industrial partner (MERCE). The project is about designing generic and efficient testing techniques and tools. The target is the test input generation, detection of polluting test objectives and test assessment with focus on industrial practice. 
 
 Duration: 3 years: from 1-1-2019 to 31-12-2022.
-
-## PAYPAL: “Assessing and Improving the PayPal DevOps practice”.
-This is industrial competitive funding, part of the SnT partnership program, with PayPal (PayPal CA) company. The project is about efficient and effective testing of the PayPal DevOps practice. In particular the project deals with the application and support of mutation testing within the development practice of the company.
-
-Duration: 3 years: from 01-01-2019 to 31/08/2022 
 
 ## UITFlaky: “Detecting (flaky) test failures of system user interactive tests”. Research grant in the form of unrestricted gift from - Facebook.
 This is a Facebook research grant that supports our work related to the detection of system user interactive flaky test failures.
@@ -70,7 +71,7 @@ Duration: 3 years: from 1-9-2019 to 31-8-2021.
 ## TESTFAST: “Software TESTing in FAST, clear and effective way”. Fonds National de la Researche Luxembourg - BRIDGES.
 This is an FNR BRIDGES project. The project is about the use of mocking in testing. It aims at evaluating innovating testing solution on industrial settings of our private partner, BGL BNP Paribas group. More precisely, the project aims at addressing two key challenges that are related to modern development practices: (1) how to create effective tests and (2) how to reduce the execution cost of tests, creating a more efficient continuous integration pipeline without affecting its test effectiveness.
 
-Duration: 3 years: from 1-1-2019 to 31-3-2023. 
+Duration: 3 years: from 1-1-2019 to 31-6-2023. 
 
 ## BGL-RobustML: “Measuring Machine Learning Robustness” Industrial funding, with BGL (SnT partner). 
 This is industrial competitive funding, part of the SnT partnership program, with BGL (BNP Paribas group) company. The project is about measuring the robustness of machine learning models. In particular the project deals with the ability of the models used by BGL to respond well on critical unseen data.
