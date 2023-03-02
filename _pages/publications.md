@@ -28,6 +28,11 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating ad
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (ICSE-NIER), 2023.
 
+Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
+
+Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
+
+
 
 ## 2022
 Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
