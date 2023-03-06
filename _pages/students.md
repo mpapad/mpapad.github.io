@@ -61,7 +61,7 @@ Christopher Henard: PhD, Co-Advisor (University of Luxembourg, September 2011 - 
 
 ## Former PostDocs
 
-Ezekiel Soremekun (Research Associate, August 2020 - January 2023)
+Ezekiel Soremekun (Research Associate, August 2020 - April 2023)
 
 Wei Ma (Research Associate, June 2022 -  September 2022)
 
