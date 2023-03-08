@@ -24,15 +24,15 @@ Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Y
 
 Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices](https://arxiv.org/pdf/2212.08130.pdf), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
+Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices”](https://arxiv.org/pdf/2212.08130.pdf), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (ICSE-NIER), 2023.
 
-Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
+Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 
-Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
+Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 
-Q. Hu, Y. Guo, M. Cordy, X. Xie, W. Ma, M. Papadakis, Y. Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment](), in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN) 2023.
+Q. Hu, Y. Guo, M. Cordy, X. Xie, W. Ma, M. Papadakis, Y. Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](), in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN) 2023.
 
 
 ## 2022
