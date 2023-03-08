@@ -32,6 +32,7 @@ Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“
 
 Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 
+Q. Hu, Y. Guo, M. Cordy, X. Xie, W. Ma, M. Papadakis, Y. Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment](), in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN) 2023.
 
 
 ## 2022
