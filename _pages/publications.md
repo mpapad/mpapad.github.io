@@ -16,23 +16,23 @@ author_profile: true
 {% endfor %}
 
 ## 2023
-Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluating the Impact of Experimental Assumptions in Automated  Fault Localization”](), in the 45th International Conference on Software Engineering (ICSE), 2023.
+Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluating the Impact of Experimental Assumptions in Automated  Fault Localization”](pdfs/ICSE23.Debugging.pdf), in the 45th International Conference on Software Engineering (ICSE), 2023.
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](), in the 45th International Conference on Software Engineering (ICSE), 2023.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](pdfs/ICSE2023_Acc_Estimation.pdf), in the 45th International Conference on Software Engineering (ICSE), 2023.
 
-Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
+Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](pdfs/SANER__MixCode_Enhancing_Code_Classification_by_Mixup_Based_Data_Augmentation.pdf), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
 
-Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
+Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](https://arxiv.org/pdf/2303.05213), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices”](https://arxiv.org/pdf/2212.08130.pdf), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (ICSE-NIER), 2023.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](pdfs/ICSE23_NIER_CodeS.pdf), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (ICSE-NIER), 2023.
 
 Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 
 Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](), in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN) 2023.
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](pdfs/CAIN2023_quantization.pdf), in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN) 2023.
 
 
 ## 2022
