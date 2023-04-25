@@ -16,135 +16,135 @@ author_profile: true
 {% endfor %}
 
 ## 2023
-Salah Ghamizi, Jingfeng Zhang, Maxime Cordy, Mike Papadakis, Masashi Sugiyama, Yves Le Traon. [“GAT: Guided Adversarial Training with Pareto-optimal Auxiliary Tasks”](https://doi.org/10.48550/arXiv.2302.02907), in the 40th International Conference on Machine Learning (ICML), 2023.
+Salah Ghamizi, Jingfeng Zhang, Maxime Cordy, Mike Papadakis, Masashi Sugiyama, Yves Le Traon. [“GAT: Guided Adversarial Training with Pareto-optimal Auxiliary Tasks”](https://doi.org/10.48550/arXiv.2302.02907), in the 40th International Conference on Machine Learning (**ICML**), 2023.
 
-Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluating the Impact of Experimental Assumptions in Automated  Fault Localization”](pdfs/ICSE23.Debugging.pdf), in the 45th International Conference on Software Engineering (ICSE), 2023.
+Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluating the Impact of Experimental Assumptions in Automated  Fault Localization”](pdfs/ICSE23.Debugging.pdf), in the 45th International Conference on Software Engineering (**ICSE**), 2023.
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](pdfs/ICSE2023_Acc_Estimation.pdf), in the 45th International Conference on Software Engineering (ICSE), 2023.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](pdfs/ICSE2023_Acc_Estimation.pdf), in the 45th International Conference on Software Engineering (**ICSE**), 2023.
 
-Matıas Brizzio, Renzo Degiovanni, Maxime Cordy, Mike Papadakis, Nazareno Aguirre, Cesar Sanchez. . ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting”](https://arxiv.org/pdf/2105.12595.pdf), in the Genetic and Evolutionary Computation Conference (GECCO), 2023.
+Matıas Brizzio, Renzo Degiovanni, Maxime Cordy, Mike Papadakis, Nazareno Aguirre, Cesar Sanchez. . ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting”](https://arxiv.org/pdf/2105.12595.pdf), in the Genetic and Evolutionary Computation Conference (**GECCO**), 2023.
 
-Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](pdfs/SANER__MixCode_Enhancing_Code_Classification_by_Mixup_Based_Data_Augmentation.pdf), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023.
+Zeming Dong, Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Zhenya Zhang, Yves Le Traon, Jianjun Zhao. [“MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation”](pdfs/SANER__MixCode_Enhancing_Code_Classification_by_Mixup_Based_Data_Augmentation.pdf), in the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER**), 2023.
 
-Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](https://arxiv.org/pdf/2303.05213), in 26th International Conference on Fundamental Approaches to Software Engineering (FASE), 2023.
+Luiz Carvalho, Renzo Degiovanni, Mat ́ıas Brizzio, Maxime Cordy, Nazareno Aguirre, Yves Le Traon, Mike Papadakis. [“ACoRe: Automated Goal-Conflict Resolution”](https://arxiv.org/pdf/2303.05213), in 26th International Conference on Fundamental Approaches to Software Engineering (**FASE**), 2023.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices”](https://arxiv.org/pdf/2212.08130.pdf), in the AAAI Workshop on Artificial Intelligence Safety (SafeAI), 2023.  
+Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“On evaluating adversarial robustness of Chest X-ray classification: Requirements & Good Practices”](https://arxiv.org/pdf/2212.08130.pdf), in the AAAI Workshop on Artificial Intelligence Safety (**SafeAI**), 2023.  
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](pdfs/ICSE23_NIER_CodeS.pdf), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (ICSE-NIER), 2023.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](pdfs/ICSE23_NIER_CodeS.pdf), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (**ICSE-NIER**), 2023.
 
-Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
+Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023.
 
-Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
+Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023.
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](pdfs/CAIN2023_quantization.pdf), in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN) 2023.
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](pdfs/CAIN2023_quantization.pdf), in 2nd International Conference on AI Engineering – Software Engineering for AI (**CAIN**) 2023.
 
 
 ## 2022
-Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
+Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**).
 
-Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (TSE).
+Aayush Garg, Milos Ojdanic, Renzo Degiovanni, Thierry Titcheu Chekam, Mike Papadakis, Yves Le Traon. ["Cerebro: Static Subsuming Mutant Selection"](https://arxiv.org/pdf/2112.14151), in IEEE Transactions on Software Engineering Journal (**TSE**).
 
-Milos Ojdanic,Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://arxiv.org/pdf/2112.14566), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
+Milos Ojdanic,Ezekiel Soremekun, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. ["Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution"](https://arxiv.org/pdf/2112.14566), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**).
 
-Renaud Rwemalika, Sarra Habchi, Mike Papadakis, Yves Le Traon, Marie-Claude Brasseur. ["Smells in System User Interactive Tests"](https://arxiv.org/pdf/2111.02317.pdf), in Empirical Software Engineering Journal (EMSE). 
+Renaud Rwemalika, Sarra Habchi, Mike Papadakis, Yves Le Traon, Marie-Claude Brasseur. ["Smells in System User Interactive Tests"](https://arxiv.org/pdf/2111.02317.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
-Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["On the Use of Commit-Relevant Mutants"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (EMSE). 
+Milos Ojdanic, Wei Ma, Thomas Laurent, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. ["On the Use of Commit-Relevant Mutants"](pdfs/ESE_2021_extension.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
-Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://arxiv.org/pdf/2012.11701),  in Empirical Software Engineering Journal (EMSE).
+Aayush Garg, Renzo Degiovanni, Matthieu Jimenez, Maxime Cordy, Mike Papadakis, Yves Le Traon.  ["Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data"](https://arxiv.org/pdf/2012.11701),  in Empirical Software Engineering Journal (**EMSE**).
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM).
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon. ["An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement"](pdfs/TOSEM_DAT.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**).
 
 Yuejun Guo, Qiang Hu, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["DRE: density-based data selection with entropy for adversarial-robust deep learning models"](https://link.springer.com/content/pdf/10.1007/s00521-022-07812-2.pdf), in Neural Computing and Applications (2022). 
 
-Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](pdfs/ICSE22___Flakime.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
+Maxime Cordy, Renaud Rwemalika, Adriano Franci, Mike Papadakis, Mark Harman. [“FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment”](pdfs/ICSE22___Flakime.pdf), in the 44th International Conference on Software Engineering (**ICSE**), 2022.
 
-Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](pdfs/ICSE22_CAT.pdf), in the 44th International Conference on Software Engineering (ICSE), 2022.
+Zeyu Sun, Jie Zhang, Yingfei Xiong, Mark Harman, Mike Papadakis, Lu Zhang. [“Improving Machine Translation Systems via Isotopic Replacement”](pdfs/ICSE22_CAT.pdf), in the 44th International Conference on Software Engineering (**ICSE**), 2022.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions"](https://arxiv.org/pdf/2110.15053.pdf), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions"](https://arxiv.org/pdf/2110.15053.pdf), in the 36th AAAI Conference on Artificial Intelligence (**AAAI**) 2022.
 
-Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. ["Boosting Adversarial Example Transferability from Geometric Vicinity"](https://arxiv.org/pdf/2207.13129), in the European Conference on Computer Vision (ECCV) 2022.
+Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. ["Boosting Adversarial Example Transferability from Geometric Vicinity"](https://arxiv.org/pdf/2207.13129), in the European Conference on Computer Vision (**ECCV**) 2022.
 
-Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen [“Efficient and Transferable Adversarial Examples from Bayesian Neural Networks"](https://arxiv.org/pdf/2011.05074), in the 38th Conference on Uncertainty in Artificial Intelligence (UAI) 2022.
+Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen [“Efficient and Transferable Adversarial Examples from Bayesian Neural Networks"](https://arxiv.org/pdf/2011.05074), in the 38th Conference on Uncertainty in Artificial Intelligence (**UAI**) 2022.
 
-Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses"](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (MSR), 2022.
+Wei Ma, Mengjie Zhao, Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. ["GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses"](pdfs/MSR22.pdf), in the 19th International Conference on Mining Software Repositories (**MSR**), 2022.
 
-Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](https://arxiv.org/pdf/2112.04919.pdf), in the 15th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2022.
+Sarra	Habchi, Guillaume	Haben, Mike	Papadakis, Maxime	Cordy, Yves	Le Traon. ["A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests"](https://arxiv.org/pdf/2112.04919.pdf), in the 15th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2022.
 
-Jeongju Sohn and Mike Papadakis. ["CEMENT: On the use of Evolutionary Coupling between tests and code units. A case study on fault localization"](https://arxiv.org/pdf/2203.11343), in the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE) 2022.
+Jeongju Sohn and Mike Papadakis. ["CEMENT: On the use of Evolutionary Coupling between tests and code units. A case study on fault localization"](https://arxiv.org/pdf/2203.11343), in the 33rd IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2022.
 
-Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](https://arxiv.org/pdf/2207.10143), in 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022.
+Sarra Habchi, Guillaume Haben, Jeongju Sohn, Adriano Franci, Mike Papadakis, Maxime Cordy and Yves Le Traon. ["What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness"](https://arxiv.org/pdf/2207.10143), in 38th IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2022.
 
-Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
+Ahmed Khanfir, Matthieu Jimenez, Mike Papadakis, Yves Le Traon. ["CodeBERT-nt: code naturalness via CodeBERT"](https://arxiv.org/pdf/2208.06042), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (**QRS**), 2022.
 
-Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulnerability Intent Bug Seeding"](pdfs/Vulnerability_Injection___QRS_2022.pdf), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2022.
+Benjamin Petit, Ahmed Khanfir, Ezekiel Soremekun, Gilles Perrouin and Mike Papadakis. ["IntJect: Vulnerability Intent Bug Seeding"](pdfs/Vulnerability_Injection___QRS_2022.pdf), in the 22nd IEEE International Conference on Software Quality, Reliability, and Security (**QRS**), 2022.
 
-Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (MUTATION), 2022.
+Renzo Degiovanni and Mike Papadakis. ["μBERT: Mutation Testing using Pre-Trained Language Models"](https://arxiv.org/pdf/2203.03289), in the 17th International Workshop on Mutation Analysis (**MUTATION**), 2022.
 
-Yu Pei, Sarra Habchi, Renaud Rwemalika, Jeongju Sohn, Mike Papadakis. ["An empirical study of async wait flakiness in front-end testing"](https://ceur-ws.org/Vol-3245/paper7.pdf). Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2022.
+Yu Pei, Sarra Habchi, Renaud Rwemalika, Jeongju Sohn, Mike Papadakis. ["An empirical study of async wait flakiness in front-end testing"](https://ceur-ws.org/Vol-3245/paper7.pdf). Belgium-Netherlands Software Evolution Workshop (**BENEVOL**) 2022.
 
-Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](https://arxiv.org/pdf/2012.07381.pdf), in the 1st International Conference on AI Engineering – Software Engineering for AI (CAIN) 2022. 
+Franci Adriano, Maxime Cordy, Martin Gubri, Mike Papadakis, Yves Le Traon. ["Influence-Driven Data Poisoning in Graph-Based Semi-Supervised Classifiers"](https://arxiv.org/pdf/2012.07381.pdf), in the 1st International Conference on AI Engineering – Software Engineering for AI (**CAIN**) 2022. 
 
 ## 2021
-Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
+Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), vol 30(2), 2021, pp. 19:1-19:23
 
-Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](pdfs/TOSEM2021B.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
+Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](pdfs/TOSEM2021B.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), vol 30(2), 2021, pp. 13:1-13:22.
 
-Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. [“MuDelta: Delta-Oriented Mutation Testing at Commit Time”](pdfs/ICSE2021.pdf), in the 43rd International Conference on Software Engineering (ICSE), 2021, pp. 897-909.
+Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. [“MuDelta: Delta-Oriented Mutation Testing at Commit Time”](pdfs/ICSE2021.pdf), in the 43rd International Conference on Software Engineering (**ICSE**), 2021, pp. 897-909.
 
-Guillaume Haben, Sarra Habchi, Mike Papadakis, Maxime Cordy, Le Traon Yves. [“A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests”](pdfs/MSR2021.pdf), in the 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 219-229.
+Guillaume Haben, Sarra Habchi, Mike Papadakis, Maxime Cordy, Le Traon Yves. [“A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests”](pdfs/MSR2021.pdf), in the 18th International Conference on Mining Software Repositories (**MSR**), 2021, pp. 219-229.
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Exploring the Limitations of Active Learning: An Empirical Study”](pdfs/ASE2021.pdf), in the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 917-929.
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Exploring the Limitations of Active Learning: An Empirical Study”](pdfs/ASE2021.pdf), in the 36th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2021, pp. 917-929.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, ICCV Workshop, 2021.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, **ICCV Workshop**, 2021.
 
-William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2021, pp. **Best paper award**.
+William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (**QRS**), 2021, pp. **Best paper award**.
 
 Maxime Cordy, Sami Lazreg, Mike Papadakis, Axel Legay. [“Statistical model checking for variability-intensive systems: applications to bug detection and minimization](https://doi.org/10.1007/s00165-021-00563-2). Formal Aspects of Computing (2021).
 
 ## 2020
 
-Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
+Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (**EMSE**), vol. 25(1), 2020, pp. 434-487.
 
-Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware mutation Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405. **Distinquished paper award**.
+Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware mutation Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2020, pp. 394-405. **Distinquished paper award**.
 
-Salah Ghamizi, Maxime Cordy, Martin Gubri, Mike Papadakis, Andrey Boystov, Yves Le Traon, Anne Goujon. [“Search-Based Adversarial Testing and Improvement of Constrained Credit Scoring Systems”](pdfs/FSE2020.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020, pp. 1089-1100.
+Salah Ghamizi, Maxime Cordy, Martin Gubri, Mike Papadakis, Andrey Boystov, Yves Le Traon, Anne Goujon. [“Search-Based Adversarial Testing and Improvement of Constrained Credit Scoring Systems”](pdfs/FSE2020.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**), 2020, pp. 1089-1100.
 
-Zeyu Sun, Jie M. Zhang, Mark Harman, Mike Papadakis, Lu Zhang, [“Automatic Testing and Improvement of Machine Translation”](pdfs/ICSE2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 974-985.
+Zeyu Sun, Jie M. Zhang, Mark Harman, Mike Papadakis, Lu Zhang, [“Automatic Testing and Improvement of Machine Translation”](pdfs/ICSE2020.pdf), in the 42nd International Conference on Software Engineering (**ICSE**), 2020, pp. 974-985.
 
-Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand, Mike Papadakis, Jacques Klein and Yves Le Traon. [“Data-driven Simulation and Optimization for Covid-19 Exit-Strategies”](pdfs/KDD2020.pdf), 26th SIGKDD conference on Knowledge Discovery and Data Mining, (KDD), AI for COVID, 2020, pp. 3434-3442. **Best paper award**.
+Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand, Mike Papadakis, Jacques Klein and Yves Le Traon. [“Data-driven Simulation and Optimization for Covid-19 Exit-Strategies”](pdfs/KDD2020.pdf), 26th SIGKDD conference on Knowledge Discovery and Data Mining, (**KDD-AI for COVID**) track, 2020, pp. 3434-3442. **Best paper award**.
 
-Maxime Cordy, Mike Papadakis and Axel Legay, [“Statistical Model Checking for Variability-Intensive Systems”](pdfs/FASE2020.pdf), in the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE), 2020, pp. 294-314.
+Maxime Cordy, Mike Papadakis and Axel Legay, [“Statistical Model Checking for Variability-Intensive Systems”](pdfs/FASE2020.pdf), in the 23rd International Conference on Fundamental Approaches to Software Engineering (**FASE**), 2020, pp. 294-314.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“FeatureNET: Diversity-driven Generation of Deep Learning Models”](pdfs/ICSE-Tool2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), tool demo track, 2020, pp. 41-44.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“FeatureNET: Diversity-driven Generation of Deep Learning Models”](pdfs/ICSE-Tool2020.pdf), in the 42nd International Conference on Software Engineering (**ICSE**), tool demo track, 2020, pp. 41-44.
 
-Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon, [“Muteria: An Extensible and Flexible Multi-Criteria Software Testing Framework”](pdfs/AST2020.pdf), in the 1st IEEE/ACM International Conference on Automation of Software Test (AST), 2020, pp. 97-100.
+Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon, [“Muteria: An Extensible and Flexible Multi-Criteria Software Testing Framework”](pdfs/AST2020.pdf), in the 1st IEEE/ACM International Conference on Automation of Software Test (**AST**), 2020, pp. 97-100.
 
 ## 2019
-Mike Papadakis, Marinos Kintis, Jie Zhang, Yue Jia, Yves Le Traon and Mark Harman, [“Mutation Testing Advances: An Analysis and Survey”](pdfs/MutationSurvey2019.pdf), in Advances in Computers, Elsevier, Vol. 112, pp. 275-378, doi https://doi.org/10.1016/bs.adcom.2018.03.015, 2019.
+Mike Papadakis, Marinos Kintis, Jie Zhang, Yue Jia, Yves Le Traon and Mark Harman, [“Mutation Testing Advances: An Analysis and Survey”](pdfs/MutationSurvey2019.pdf), in **Advances in Computers**, Elsevier, Vol. 112, pp. 275-378, doi https://doi.org/10.1016/bs.adcom.2018.03.015, 2019.
 
-Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. [“Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”](pdfs/STVR2018.pdf), in Software Testing, Verification and Reliability Journal (STVR), vol. 29, 2019, pp. e1695.
+Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. [“Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”](pdfs/STVR2018.pdf), in Software Testing, Verification and Reliability Journal (**STVR**), vol. 29, 2019, pp. e1695.
 
-Thierry Titcheu Chekam, Mike Papadakis, and Yves Le Traon. [“Mart: A Mutant Generation Tool for LLVM”](pdfs/FSE2019-Tool.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)-Demo, 2019, pp. 1080-1084.
+Thierry Titcheu Chekam, Mike Papadakis, and Yves Le Traon. [“Mart: A Mutant Generation Tool for LLVM”](pdfs/FSE2019-Tool.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**FSE-Demo**), 2019, pp. 1080-1084.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“Ukwikora: Continuous inspection for Keyword-Driven Testing”](pdfs/ISSTA2019-Tool.pdf), in the International Symposium on Software Testing and Analysis (ISSTA)-Demo, 2019, pp. 402-405.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“Ukwikora: Continuous inspection for Keyword-Driven Testing”](pdfs/ISSTA2019-Tool.pdf), in the International Symposium on Software Testing and Analysis (**ISSTA-Demo**), 2019, pp. 402-405.
 
-Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, [“The importance of accounting for real-world labelling when predicting software vulnerabilities”](pdfs/FSE2019.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019, pp. 695-705. **Distinquished paper award**.
+Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, [“The importance of accounting for real-world labelling when predicting software vulnerabilities”](pdfs/FSE2019.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**), 2019, pp. 695-705. **Distinquished paper award**.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“An industrial study on the differences between pre-release and post-release bugs”](pdfs/ICSME2019.pdf), in 35th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 92-102.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“An industrial study on the differences between pre-release and post-release bugs”](pdfs/ICSME2019.pdf), in 35th IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2019, pp. 92-102.
 
-Claire Leong, Abhayendra Singh, Mike Papadakis, Yves Le Traon and John Micco. [“Assessing Transition-based Test Selection Algorithms at Google”](pdfs/ICSE-SEIP2019.pdf), in the 41st International Conference on Software Engineering (ICSE) SEIP track, 2019, pp. 101-110.
+Claire Leong, Abhayendra Singh, Mike Papadakis, Yves Le Traon and John Micco. [“Assessing Transition-based Test Selection Algorithms at Google”](pdfs/ICSE-SEIP2019.pdf), in the 41st International Conference on Software Engineering (**ICSE-SEIP**) track, 2019, pp. 101-110.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“Automated search for configurations of convolutional neural network architectures”](pdfs/SPLC2019.pdf), in 23rd ACM International Conference on Software Product Lines (SPLC), 2019, pp. 21:1-21:12.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“Automated search for configurations of convolutional neural network architectures”](pdfs/SPLC2019.pdf), in 23rd ACM International Conference on Software Product Lines (**SPLC**), 2019, pp. 21:1-21:12.
 
-Xavier Schmitt, Sylvain Kubler, Jeremy Robert, Mike Papadakis, Yves Le Traon. [“A Replicable Comparison Study of NER Software: StanfordNLP, NLTK, OpenNLP, SpaCy, Gate”](pdfs/SNAMS2019.pdf), in Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), 2019, pp. 338-343.
+Xavier Schmitt, Sylvain Kubler, Jeremy Robert, Mike Papadakis, Yves Le Traon. [“A Replicable Comparison Study of NER Software: StanfordNLP, NLTK, OpenNLP, SpaCy, Gate”](pdfs/SNAMS2019.pdf), in Sixth International Conference on Social Networks Analysis, Management and Security (**SNAMS**), 2019, pp. 338-343.
 
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Semantic Fuzzing with Zest”](pdfs/ISSTA2019B.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 329-340. **Distinquished artifact award**.
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Semantic Fuzzing with Zest”](pdfs/ISSTA2019B.pdf), in the International Symposium on Software Testing and Analysis (**ISSTA**), 2019, pp. 329-340. **Distinquished artifact award**.
 
-Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”](pdfs/ISSTA2019.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 158-168. **Distinquished artifact award**.
+Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”](pdfs/ISSTA2019.pdf), in the International Symposium on Software Testing and Analysis (**ISSTA**), 2019, pp. 158-168. **Distinquished artifact award**.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“On the Evolution of Keyword-Driven Test Suites”](pdfs/ICST2019.pdf), in the 12th International Conference on Software Testing (ICST), 2019, pp. 335-345.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“On the Evolution of Keyword-Driven Test Suites”](pdfs/ICST2019.pdf), in the 12th International Conference on Software Testing (**ICST**), 2019, pp. 335-345.
 
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](https://mpapad.github.io/Publications/), in the 41st International Conference on Software Engineering (ICSE), poster track, 2019, pp. 266-267.
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](https://mpapad.github.io/Publications/), in the 41st International Conference on Software Engineering (**ICSE-poster**), track, 2019, pp. 266-267.
 
 ## 2018
 
