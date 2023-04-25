@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2023
+Salah Ghamizi, Jingfeng Zhang, Maxime Cordy, Mike Papadakis, Masashi Sugiyama, Yves Le Traon. [“GAT: Guided Adversarial Training with Pareto-optimal Auxiliary Tasks”](https://doi.org/10.48550/arXiv.2302.02907), in the 40th International Conference on Machine Learning (ICML), 2023.
+
 Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluating the Impact of Experimental Assumptions in Automated  Fault Localization”](pdfs/ICSE23.Debugging.pdf), in the 45th International Conference on Software Engineering (ICSE), 2023.
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](pdfs/ICSE2023_Acc_Estimation.pdf), in the 45th International Conference on Software Engineering (ICSE), 2023.
