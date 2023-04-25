@@ -18,9 +18,7 @@ My CV can be downloaded [here](publications/pdfs/cv-Feb23.pdf).
 Paper at **ICML'23**<br/>
 2 Papers at **ICSE'23**<br/>
 Paper at **ECCV'22**<br/>
-Paper at **UAI'22**<br/>
 Paper at **AAAI'22**<br/>
-2 Papers at **ICSE'22**<br/>
 **==================**<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
