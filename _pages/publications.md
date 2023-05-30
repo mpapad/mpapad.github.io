@@ -34,7 +34,7 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le
 
 Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023.
 
-Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023.
+Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023. **Best paper award**.
 
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](pdfs/CAIN2023_quantization.pdf), in 2nd International Conference on AI Engineering – Software Engineering for AI (**CAIN**) 2023.
 
@@ -97,7 +97,7 @@ Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, **ICCV Workshop**, 2021.
 
-William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (**QRS**), 2021, pp. **Best paper award**.
+William Bonnaventure, Ahmed Khanfir, Alexandre Bartel, Mike Papadakis, Yves Le traon. [“Confuzzion: A Java Virtual Machine Fuzzer for Type Confusion Vulnerabilities”](pdfs/QRS2021.pdf), 21st IEEE International Conference on Software Quality, Reliability, and Security (**QRS**), 2021, **Best paper award**.
 
 Maxime Cordy, Sami Lazreg, Mike Papadakis, Axel Legay. [“Statistical model checking for variability-intensive systems: applications to bug detection and minimization](https://doi.org/10.1007/s00165-021-00563-2). Formal Aspects of Computing (2021).
 
