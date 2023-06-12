@@ -21,7 +21,7 @@ Mutation Testing Repository: Is a comprehensive collection and analysis of Mutat
 
 PiTest++: A Practical Mutation Testing Tool for Java (updated version that supports research operators).[tool](https://github.com/LaurentTho3/ExtendedPitest/) (integrated on the main branch of PiTest project)
 
-PiTest-Sec: A security related mutation testing tool. [tool](https://github.com/Iotho/pitest-sec(, 
+PiTest-Sec: A security related mutation testing tool. [tool](https://github.com/Iotho/pitest-sec)
 
 EFLBench: Eclipse Feature Location Benchmark for Software Families.  [tool](https://github.com/but4reuse/but4reuse/wiki/Benchmarks)
 
