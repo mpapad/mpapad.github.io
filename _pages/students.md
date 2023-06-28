@@ -20,21 +20,21 @@ Luiz Carvalho: PhD Advisor (University of Luxembourg, February 2021 - Present)
 
 <!---Qiang Hu: PhD Co-Advisor (University of Luxembourg, September 2020 - Present)--->
 
-Milos Ojdanic: PhD Advisor (University of Luxembourg, October 2019 - Present)
+<!---Milos Ojdanic: PhD Advisor (University of Luxembourg, October 2019 - Present)--->
 
-Guillaume HABEN: PhD Co-Advisor (University of Luxembourg, September 2019 - Present) 
+<!---Guillaume HABEN: PhD Co-Advisor (University of Luxembourg, September 2019 - Present)--->
 
-Martin GUBRI: PhD Co-Advisor (University of Luxembourg, September 2019 - Present)
+<!---Martin GUBRI: PhD Co-Advisor (University of Luxembourg, September 2019 - Present)--->
 
 <!---Ahmed KHANFIR: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)--->
 
-Garg Aayush: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)
+<!---Garg Aayush: PhD Co-Advisor (University of Luxembourg, July 2019 - Present)--->
 
 
 
 ## Current PostDocs
 
-Salah Ghamizi: PhD Co-Advisor (University of Luxembourg, September 2022 - Present) 
+<!---Salah Ghamizi: PhD Co-Advisor (University of Luxembourg, September 2022 - Present)--->
 
 Jeongju Sohn (Research Associate, October 2021 - Present)
 
