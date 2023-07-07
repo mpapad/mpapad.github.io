@@ -42,6 +42,8 @@ Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and 
 
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](pdfs/CAIN2023_quantization.pdf), in 2nd International Conference on AI Engineering – Software Engineering for AI (**CAIN**) 2023.
 
+Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon.  [“MUTEN: Mutant-Based Ensembles for Boosting Gradient-Based Adversarial Attack”](), in the 38th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results track (**ASE-NIER 2023**).
+
 
 ## 2022
 Ahmed Khanfir, Anil Koyuncu, Mike Papadakis, Maxime Cordy, Tegawende F. Bissyande, Jacques Klein and Yves Le Traon. ["IBIR: Bug Report driven Fault Injection"](https://arxiv.org/pdf/2012.06506.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**).
