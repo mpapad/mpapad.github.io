@@ -26,7 +26,7 @@ Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yve
 
 Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“GraphPrior: Mutation-based Test Input Prioritization for Graph Neural Networks”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing”](), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Matıas Brizzio, Renzo Degiovanni, Maxime Cordy, Mike Papadakis, Nazareno Aguirre, Cesar Sanchez. . ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting”](https://arxiv.org/pdf/2105.12595.pdf), in the Genetic and Evolutionary Computation Conference (**GECCO**), 2023.
 
