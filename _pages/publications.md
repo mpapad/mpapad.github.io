@@ -30,7 +30,7 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. 
 
 Milos Ojdanic, Mike Papadakis, Mark Harman. [“Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants”](), in the ACM SIGSOFT International Symposium on the Foundations of Software Engineering, Ideas, Visions and Reflections track (**FSE-IVR 2023**).
 
-Aayush Garg, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, Yves Le Traon. [“Enabling Efficient Assertion Inference”](), in the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE) 2023.
+Aayush Garg, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, Yves Le Traon. [“Enabling Efficient Assertion Inference”](), in the 34th IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2023.
 
 Matıas Brizzio, Renzo Degiovanni, Maxime Cordy, Mike Papadakis, Nazareno Aguirre, Cesar Sanchez. . ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting”](https://arxiv.org/pdf/2105.12595.pdf), in the Genetic and Evolutionary Computation Conference (**GECCO**), 2023.
 
