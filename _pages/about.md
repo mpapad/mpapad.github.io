@@ -10,8 +10,6 @@ redirect_from:
 
 I’m an Associate Professor at the Luxembourg University, Interdisciplinary Centre for Security, Reliability and Trust ([SnT](https://wwwfr.uni.lu/snt)). My research interests lie in the area of Software Engineering with particular focus on Software Testing, Code Analysis and Search-based Software Engineering. 
 
-My CV can be downloaded [here](publications/pdfs/cv-Feb23.pdf).
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **==== Recent News ====**<br/>
