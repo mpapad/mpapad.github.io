@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2024
+Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon and Mike Papadakis. [“SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions”](), in the 46th International Conference on Software Engineering (**ICSE**), 2024.
+
+Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulner- abilities and LLM-generated Mutants: A Study on Vul4J dataset”](), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
+
+
 ## 2023
 Salah Ghamizi, Jingfeng Zhang, Maxime Cordy, Mike Papadakis, Masashi Sugiyama, Yves Le Traon. [“GAT: Guided Adversarial Training with Pareto-optimal Auxiliary Tasks”](https://doi.org/10.48550/arXiv.2302.02907), in the 40th International Conference on Machine Learning (**ICML**), 2023.
 
