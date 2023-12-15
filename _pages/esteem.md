@@ -7,7 +7,7 @@ author_profile: true
 
 ##  Awards & Honours
 
-**Distinguished Reviewer Award** at the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23).
+**Distinguished Reviewer Award** at the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23).
 
 **Best Paper Award** at the 4th ACM/IEEE International Conference on Automation of Software Test (AST) 2023. Paper title: “On Comparing Mutation Testing Tools through Learning-based Mutant Selection”.
 
