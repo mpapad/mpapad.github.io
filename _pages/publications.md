@@ -36,9 +36,9 @@ Yuejun Guo, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. 
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing”](https://dl.acm.org/doi/pdf/10.1145/3611666), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Milos Ojdanic, Mike Papadakis, Mark Harman. [“Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants”](), in the ACM SIGSOFT International Symposium on the Foundations of Software Engineering, Ideas, Visions and Reflections track (**FSE-IVR 2023**).
+Milos Ojdanic, Mike Papadakis, Mark Harman. [“Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants”](pdfs/FSE_NIER_2023.pdf), in the ACM SIGSOFT International Symposium on the Foundations of Software Engineering, Ideas, Visions and Reflections track (**FSE-IVR 2023**).
 
-Aayush Garg, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, Yves Le Traon. [“Enabling Efficient Assertion Inference”](), in the 34th IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2023.
+Aayush Garg, Renzo Degiovanni, Facundo Molina, Mike Papadakis, Nazareno Aguirre, Maxime Cordy, Yves Le Traon. [“Enabling Efficient Assertion Inference”](pdfs/Seeker-.pdf), in the 34th IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2023.
 
 Matıas Brizzio, Renzo Degiovanni, Maxime Cordy, Mike Papadakis, Nazareno Aguirre, Cesar Sanchez. . ["Automated Repair of Unrealisable LTL Specifications Guided by Model Counting”](https://arxiv.org/pdf/2105.12595.pdf), in the Genetic and Evolutionary Computation Conference (**GECCO**), 2023.
 
@@ -50,13 +50,13 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“On evaluating
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Towards Code Model Generalization Under Distribution Shift”](pdfs/ICSE23_NIER_CodeS.pdf), in the 45th International Conference on Software Engineering, New Ideas and Emerging Results track (**ICSE-NIER**), 2023.
 
-Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023.
+Amal Akli, Guillaume Haben, Sarra Habchi, Mike Papadakis and Yves Le Traon. [“FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning”](pdfs/FlakyCat.pdf), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023.
 
-Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023. **Best paper award**.
+Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On Comparing Mutation Testing Tools through Learning-based Mutant Selection”](pdfs/AST_2023.pdf), in the 4th ACM/IEEE International Conference on Automation of Software Test (**AST**), 2023. **Best paper award**.
 
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment”](pdfs/CAIN2023_quantization.pdf), in 2nd International Conference on AI Engineering – Software Engineering for AI (**CAIN**) 2023.
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon.  [“MUTEN: Mutant-Based Ensembles for Boosting Gradient-Based Adversarial Attack”](), in the 38th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results track (**ASE-NIER 2023**).
+Qiang Hu, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon.  [“MUTEN: Mutant-Based Ensembles for Boosting Gradient-Based Adversarial Attack”](pdfs/MUTEN.pdf), in the 38th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results track (**ASE-NIER 2023**).
 
 
 ## 2022
