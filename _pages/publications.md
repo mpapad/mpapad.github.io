@@ -28,13 +28,13 @@ Ezekiel Soremekun, Lukas Kirschner, Marcel Böhme, Mike Papadakis. [“Evaluatin
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Aries: Efficient Testing of Deep Neural Networks via  Labeling-Free Accuracy Estimation”](pdfs/ICSE2023_Acc_Estimation.pdf), in the 45th International Conference on Software Engineering (**ICSE**), 2023.
 
-Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yves Le Traon. [“Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies”](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yves Le Traon. [“Syntactic Vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10136793), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“GraphPrior: Mutation-based Test Input Prioritization for Graph Neural Networks”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“GraphPrior: Mutation-based Test Input Prioritization for Graph Neural Networks”](https://dl.acm.org/doi/pdf/10.1145/3607191), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Yuejun Guo, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“KAPE: kNN-Based Performance Testing for Deep Code Search”](), in ACM Transactions on Software Engineering and Method- ology Journal (**TOSEM**), to appear.
+Yuejun Guo, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“KAPE: kNN-Based Performance Testing for Deep Code Search”](https://dl.acm.org/doi/pdf/10.1145/3624735), in ACM Transactions on Software Engineering and Method- ology Journal (**TOSEM**), to appear.
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing”](https://dl.acm.org/doi/pdf/10.1145/3611666), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Milos Ojdanic, Mike Papadakis, Mark Harman. [“Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants”](), in the ACM SIGSOFT International Symposium on the Foundations of Software Engineering, Ideas, Visions and Reflections track (**FSE-IVR 2023**).
 
