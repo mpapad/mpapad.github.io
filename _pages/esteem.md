@@ -121,6 +121,8 @@ International Journal on Software and Systems Modeling (SoSyM), Special issue on
 
 ### Steering Committee Member:
 
+ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). Years 2022-2030.
+
 IEEE International Conference on Software Maintenance and Evolution (ICSME). Years 2021-2024.
 
 IEEE International Conference on Software Testing (ICST). Years 2019-2022. 
@@ -128,6 +130,8 @@ IEEE International Conference on Software Testing (ICST). Years 2019-2022.
 Symposium on Search-Based Software Engineering (SSBSE). Years 2019-2022. 
 
 ### General Chair:
+
+34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025).
 
 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021). 
 
@@ -166,7 +170,17 @@ ACM SIGSOFT International Symposium on Software Testing and Analysis, (ISSTA 202
 
 ### Program Committee Member:
 
+46th International Conference on Software Engineering (ICSE 2024). 
+
+32nd ACM Foundations of Software Engineering (FSE 2024). 
+
+39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024).
+
+33rd International Symposium on Software Testing and Analysis (ISSTA 2024). 
+
 45th International Conference on Software Engineering (ICSE 2023). 
+
+31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023). 
 
 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). 
 
