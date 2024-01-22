@@ -23,7 +23,7 @@ Agust ́ın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego G
 
 Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Test Opti- mization in DNN Testing: A Survey”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Test Optimization in DNN Testing: A Survey”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 
 Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“Test input prioritization for Machine Learning Classifiers”](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
