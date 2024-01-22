@@ -18,6 +18,9 @@ author_profile: true
 ## 2024
 Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon and Mike Papadakis. [“SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions”](), in the 46th International Conference on Software Engineering (**ICSE**), 2024.
 
+
+Agust ́ın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias. [“Abstraction-Aware Inference of Metamorphic Relations”](), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2024.
+
 Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Test Opti- mization in DNN Testing: A Survey”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
