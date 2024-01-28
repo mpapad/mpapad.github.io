@@ -14,8 +14,7 @@ I’m an Associate Professor at the Luxembourg University, Interdisciplinary Cen
 
 **==== Recent News ====**<br/>
 Paper at **ICSE'24**<br/>
-Paper at **ICML'23**<br/>
-2 Papers at **ICSE'23**<br/>
+Paper at **FSE'24**<br/>
 **==================**<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
