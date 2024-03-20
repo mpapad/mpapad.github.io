@@ -16,21 +16,21 @@ author_profile: true
 {% endfor %}
 
 ## 2024
-Ana Belen Sanchez, Jose Antonio Parejo, Sergio Segura, Amador Duran Toro, Mike Papadakis. [“Mutation Testing in Practice: Insights from Open-Source Software Developers”](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+Ana Belen Sanchez, Jose Antonio Parejo, Sergio Segura, Amador Duran Toro, Mike Papadakis. [“Mutation Testing in Practice: Insights from Open-Source Software Developers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472898), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon and Mike Papadakis. [“SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions”](), in the 46th International Conference on Software Engineering (**ICSE**), 2024.
+Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon and Mike Papadakis. [“SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions”](pdfs/Fuzzing_LTL_Solvers.pdf), in the 46th International Conference on Software Engineering (**ICSE**), 2024.
 
-Agustın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias. [“Abstraction-Aware Inference of Metamorphic Relations”](), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2024.
+Agustın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias. [“Abstraction-Aware Inference of Metamorphic Relations”]((pdfs/metamorphic_relation_inference.pdf), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2024.
 
-Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
+Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Active Code Learning: Benchmarking Sample-Efficient Training of Code Models”](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
-
-
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Test Optimization in DNN Testing: A Survey”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Active Code Learning: Benchmarking Sample-Efficient Training of Code Models”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10471610), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
 
-Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“Test input prioritization for Machine Learning Classifiers”](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Test Optimization in DNN Testing: A Survey”](https://dl.acm.org/doi/pdf/10.1145/3643678), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+
+
+Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“Test input prioritization for Machine Learning Classifiers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382258), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
 
 ## 2023
