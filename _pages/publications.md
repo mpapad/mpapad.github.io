@@ -20,7 +20,7 @@ Ana Belen Sanchez, Jose Antonio Parejo, Sergio Segura, Amador Duran Toro, Mike P
 
 Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon and Mike Papadakis. [“SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions”](pdfs/Fuzzing_LTL_Solvers.pdf), in the 46th International Conference on Software Engineering (**ICSE**), 2024.
 
-Agustın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias. [“Abstraction-Aware Inference of Metamorphic Relations”]((pdfs/metamorphic_relation_inference.pdf), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2024.
+Agustın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias. [“Abstraction-Aware Inference of Metamorphic Relations”](pdfs/metamorphic_relation_inference.pdf), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2024.
 
 Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
 
