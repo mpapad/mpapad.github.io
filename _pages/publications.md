@@ -22,7 +22,7 @@ Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon a
 
 Agustın Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias. [“Abstraction-Aware Inference of Metamorphic Relations”](pdfs/metamorphic_relation_inference.pdf), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2024.
 
-Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](https://draayushgarg.github.io/files/VulnerabilityCouplingMutants.pdf), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
+Aayush Garg, Renzo Degiovanni, Mike Papadakis and Yves Le Traon. [“On the Coupling between Vulnerabilities and LLM-generated Mutants: A Study on Vul4J dataset”](pdfs/ICST24.pdf), in the 17th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2024.
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon. [“Active Code Learning: Benchmarking Sample-Efficient Training of Code Models”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10471610), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
