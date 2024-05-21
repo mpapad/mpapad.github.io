@@ -32,6 +32,9 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le
 
 Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“Test input prioritization for Machine Learning Classifiers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382258), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
+Zeming Dong, Qiang Hu, Zhenya Zhang, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon and Jianjun Zhao. [“On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Lan- guage Processing”](), in Journal of Systems and Software (**JSS**), to appear.
+
+
 
 ## 2023
 Salah Ghamizi, Jingfeng Zhang, Maxime Cordy, Mike Papadakis, Masashi Sugiyama, Yves Le Traon. [“GAT: Guided Adversarial Training with Pareto-optimal Auxiliary Tasks”](https://doi.org/10.48550/arXiv.2302.02907), in the 40th International Conference on Machine Learning (**ICML**), 2023.
