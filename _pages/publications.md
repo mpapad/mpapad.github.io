@@ -34,6 +34,8 @@ Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves
 
 Zeming Dong, Qiang Hu, Zhenya Zhang, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon and Jianjun Zhao. [“On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Lan- guage Processing”](), in Journal of Systems and Software (**JSS**), to appear.
 
+Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy and Yves Le Traon. [“Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study”](), in Empirical Software Engineering Journal (**EMSE**). 
+
 
 
 ## 2023
