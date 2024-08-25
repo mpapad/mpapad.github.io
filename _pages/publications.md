@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2024
+Guillaume Haben, Sarra Habchi, John Micco, Mark Harman, Mike Papadakis, Maxime Cordy, Yves Le Traon.[“The Importance of Accounting for Execution Failures when Predicting Test Flakiness”](), in the 39th IEEE/ACM International Conference on Automated Software Engineering -- Industry Showcase (**ASE 2024 Industry Showcase**).
+
 Ana Belen Sanchez, Jose Antonio Parejo, Sergio Segura, Amador Duran Toro, Mike Papadakis. [“Mutation Testing in Practice: Insights from Open-Source Software Developers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472898), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
 Luiz Carvalho, Renzo Degiovanni, Maxime Cordy, Nazareno Aguirre, Yves Le Traon and Mike Papadakis. [“SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions”](pdfs/Fuzzing_LTL_Solvers.pdf), in the 46th International Conference on Software Engineering (**ICSE**), 2024.
