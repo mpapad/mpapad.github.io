@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2025
+Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. \\ 
+
+
 ## 2024
 Guillaume Haben, Sarra Habchi, John Micco, Mark Harman, Mike Papadakis, Maxime Cordy, Yves Le Traon.[“The Importance of Accounting for Execution Failures when Predicting Test Flakiness”](), in the 39th IEEE/ACM International Conference on Automated Software Engineering -- Industry Showcase (**ASE 2024 Industry Showcase**).
 
