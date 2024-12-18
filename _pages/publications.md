@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## 2025
-Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. \\ 
+Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. 
 
 
 ## 2024
