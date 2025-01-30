@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2025
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike Papadakis, Lei Ma, Yves Le Traon. ["Assessing the Robustness of Test Selection Methods for Deep Neural Networks”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+
 Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. 
 
 
