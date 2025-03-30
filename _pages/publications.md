@@ -16,21 +16,21 @@ author_profile: true
 {% endfor %}
 
 ## 2025
-Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](), in the 20th Inter- national Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
+Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](pdfs/Mutation25.pdf), in the 20th Inter- national Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
 
-Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. 
+Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](pdfs/ICST25.pdf), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. 
 
-Qiang Hu, Zeming Dong, Yuejun Guo, Zhenya Zhang, Maxime Cordy, Mike Papadakis, Yves Le Traon, Jianjun Zhao. ["Boosting Source Code Learning with Text-Oriented Data Augmentation: An Empirical Study”](), in Empirical Software Engineering Journal (**EMSE**). 
+Qiang Hu, Zeming Dong, Yuejun Guo, Zhenya Zhang, Maxime Cordy, Mike Papadakis, Yves Le Traon, Jianjun Zhao. ["Boosting Source Code Learning with Text-Oriented Data Augmentation: An Empirical Study”](https://link.springer.com/content/pdf/10.1007/s10664-025-10624-2.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike Papadakis, Lei Ma, Yves Le Traon. ["Assessing the Robustness of Test Selection Methods for Deep Neural Networks”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike Papadakis, Lei Ma, Yves Le Traon. ["Assessing the Robustness of Test Selection Methods for Deep Neural Networks”](https://dl.acm.org/doi/pdf/10.1145/3715693), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 
 
 
 ## 2024
-Guillaume Haben, Sarra Habchi, John Micco, Mark Harman, Mike Papadakis, Maxime Cordy, Yves Le Traon.[“The Importance of Accounting for Execution Failures when Predicting Test Flakiness”](), in the 39th IEEE/ACM International Conference on Automated Software Engineering -- Industry Showcase (**ASE 2024 Industry Showcase**).
+Guillaume Haben, Sarra Habchi, John Micco, Mark Harman, Mike Papadakis, Maxime Cordy, Yves Le Traon.[“The Importance of Accounting for Execution Failures when Predicting Test Flakiness”](https://dl.acm.org/doi/pdf/10.1145/3691620.3695261), in the 39th IEEE/ACM International Conference on Automated Software Engineering -- Industry Showcase (**ASE 2024 Industry Showcase**).
 
-Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. [“Non-Flaky and Nearly-Optimal Time-based Treatment of Asynchronous Wait Web Tests”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. [“Non-Flaky and Nearly-Optimal Time-based Treatment of Asynchronous Wait Web Tests”](https://dl.acm.org/doi/pdf/10.1145/3695989), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Ana Belen Sanchez, Jose Antonio Parejo, Sergio Segura, Amador Duran Toro, Mike Papadakis. [“Mutation Testing in Practice: Insights from Open-Source Software Developers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472898), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
