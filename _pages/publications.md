@@ -48,9 +48,9 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le
 
 Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“Test input prioritization for Machine Learning Classifiers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382258), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Zeming Dong, Qiang Hu, Zhenya Zhang, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon and Jianjun Zhao. [“On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Lan- guage Processing”](), in Journal of Systems and Software (**JSS**), to appear.
+Zeming Dong, Qiang Hu, Zhenya Zhang, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon and Jianjun Zhao. [“On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Lan- guage Processing”](https://arxiv.org/pdf/2210.03123), in Journal of Systems and Software (**JSS**), to appear.
 
-Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy and Yves Le Traon. [“Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study”](), in Empirical Software Engineering Journal (**EMSE**). 
+Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy and Yves Le Traon. [“Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study”](https://link.springer.com/content/pdf/10.1007/s10664-024-10515-y.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
 
 
