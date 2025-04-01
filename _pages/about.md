@@ -12,19 +12,8 @@ I’m an Associate Professor at the Luxembourg University, Interdisciplinary Cen
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**==== Recent News ====**<br/>
-Paper at **ICSE'24**<br/>
-Paper at **FSE'24**<br/>
-**==================**<br/>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://conf.researchr.org/home/ssbse-2022">
-      <img src="/images/avatar-icon.png" width="100" height="100">
+<a href="[https://conf.researchr.org/home/ssbse-2022](https://link.springer.com/journal/10664)">
+      <img src="/images/10664.webp" width="100" height="100">
 </a>
-
-
-<a href="https://conf.researchr.org/home/icst-2023">
-      <img src="/images/ICST.jpeg" width="100" height="100">
-</a>
-
 
