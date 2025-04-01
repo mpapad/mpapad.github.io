@@ -14,6 +14,6 @@ I’m an Associate Professor at the Luxembourg University, Interdisciplinary Cen
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="[https://conf.researchr.org/home/ssbse-2022](https://link.springer.com/journal/10664)">
-      <img src="/images/10664.jpeg" width="90" height="160">
+      <img src="/images/10664.jpeg" width="100" height="160">
 </a>
 
