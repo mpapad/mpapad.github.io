@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %}
 
 ## 2025
+Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), to appear.
+
+
 Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](pdfs/Mutation25.pdf), in the 20th Inter- national Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
 
 Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](pdfs/ICST25.pdf), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. 
