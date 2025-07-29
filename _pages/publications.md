@@ -18,7 +18,7 @@ author_profile: true
 ## 2025
 Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](), in ACM Computing Surveys, to appear.
 
-Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), to appear.
+Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 
 Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](pdfs/Mutation25.pdf), in the 20th Inter- national Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
