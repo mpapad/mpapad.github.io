@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2025
+Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](), in ACM Computing Surveys, to appear.
+
 Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), to appear.
 
 
