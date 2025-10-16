@@ -23,6 +23,9 @@ Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fa
 
 Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
+Peng Zhang, Mike Papadakis, Yuming Zhou.["FuMi: A Runtime Fuzz-based Machine Learning Precision Measurement and Testing Framework”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+
+Peng Zhang, Zeyu Lu, Yang Wang, Yibiao Yang, Yuming Zhou, Mike Papadakis. ["Enriching Mutation Testing With Innovative Method Invocation Mutation: Filling the Crucial Missing Piece of the Puzzle”](), in IEEE Trans. Software Eng. 51(7): 2125-2143 (2025).
 
 Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](pdfs/Mutation25.pdf), in the 20th Inter- national Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
 
