@@ -35,7 +35,7 @@ Rafael Ramires, Ana Respıcio, Iberia Medeiros, Mike Papadakis. ["KAVe: A Tool t
 
 Qiang Hu, Zeming Dong, Yuejun Guo, Zhenya Zhang, Maxime Cordy, Mike Papadakis, Yves Le Traon, Jianjun Zhao. ["Boosting Source Code Learning with Text-Oriented Data Augmentation: An Empirical Study”](https://link.springer.com/content/pdf/10.1007/s10664-025-10624-2.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
-Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike Papadakis, Lei Ma, Yves Le Traon. ["Assessing the Robustness of Test Selection Methods for Deep Neural Networks”](https://dl.acm.org/doi/pdf/10.1145/3715693"], in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike Papadakis, Lei Ma, Yves Le Traon. ["Assessing the Robustness of Test Selection Methods for Deep Neural Networks”](https://dl.acm.org/doi/pdf/10.1145/3715693), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Saad Memon, Rafal Graczyk, Tomasz Rajkowski, Jan Swakon, Mike Papadakis. ["Patterns that Break Memory: SEU Characterization of COTS LPDDR2 and LPDDR4 SDRAM via Stress Testing Under 60 MeV Proton Beam"](), in IEEE International Conference on Software Quality, Reliability and Security (**QRS**), to appear.
 
