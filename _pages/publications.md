@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2026
+Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
+
 ## 2025
 Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](), in ACM Computing Surveys, to appear.
 
