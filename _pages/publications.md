@@ -37,7 +37,7 @@ Qiang Hu, Zeming Dong, Yuejun Guo, Zhenya Zhang, Maxime Cordy, Mike Papadakis, Y
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike Papadakis, Lei Ma, Yves Le Traon. ["Assessing the Robustness of Test Selection Methods for Deep Neural Networks”](https://dl.acm.org/doi/pdf/10.1145/3715693), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-
+Saad Memon, Rafal Graczyk, Tomasz Rajkowski, Jan Swakon, Mike Papadakis. ["Patterns that Break Memory: SEU Characterization of COTS LPDDR2 and LPDDR4 SDRAM via Stress Testing Under 60 MeV Proton Beam), in IEEE International Conference on Software Quality, Reliability and Security (**QRS**), to appear.
 
 
 ## 2024
