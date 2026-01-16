@@ -23,17 +23,17 @@ Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, M
 ## 2025
 Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](https://dl.acm.org/doi/epdf/10.1145/3762170), in ACM Computing Surveys, 58(3): 77:1-77:38 (2026).
 
-Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](https://dl.acm.org/doi/epdf/10.1145/3734867), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Peng Zhang, Mike Papadakis, Yuming Zhou.["FuMi: A Runtime Fuzz-based Machine Learning Precision Measurement and Testing Framework”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Peng Zhang, Mike Papadakis, Yuming Zhou.["FuMi: A Runtime Fuzz-based Machine Learning Precision Measurement and Testing Framework”](https://dl.acm.org/doi/epdf/10.1145/3734866), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Peng Zhang, Zeyu Lu, Yang Wang, Yibiao Yang, Yuming Zhou, Mike Papadakis. ["Enriching Mutation Testing With Innovative Method Invocation Mutation: Filling the Crucial Missing Piece of the Puzzle”](),in IEEE Transactions on Software Engineering Journal (**TSE**), 51(7): 2125-2143 (2025).
 
-Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](pdfs/Mutation25.pdf), in the 20th Inter- national Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
+Asma Hamidi, Ahmed Khanfir, and Mike Papadakis. ["Intent-Based Mutation Testing”](pdfs/Mutation25.pdf), in the 20th International Workshop on Mutation Analysis (**MUTATION**), ICST Workshops 2025.
 
 Yu Pei, Jeongju Sohn and Mike Papadakis. ["An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges”](pdfs/ICST25.pdf), in the 18th IEEE International Conference on Software Testing, Verification and Validation (**ICST**), 2025. 
 
-Rafael Ramires, Ana Respıcio, Iberia Medeiros, Mike Papadakis. ["KAVe: A Tool to Detect XSS and SQLi Vulnerabilities using a Multi-Agent System over a Multi-Layer Knowledge Graph”](), in the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (**FSE**), Demonstrations track.
+Rafael Ramires, Ana Respıcio, Iberia Medeiros, Mike Papadakis. ["KAVe: A Tool to Detect XSS and SQLi Vulnerabilities using a Multi-Agent System over a Multi-Layer Knowledge Graph”](https://dl.acm.org/doi/epdf/10.1145/3696630.3728601), in the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (**FSE**), Demonstrations track.
 
 Qiang Hu, Zeming Dong, Yuejun Guo, Zhenya Zhang, Maxime Cordy, Mike Papadakis, Yves Le Traon, Jianjun Zhao. ["Boosting Source Code Learning with Text-Oriented Data Augmentation: An Empirical Study”](https://link.springer.com/content/pdf/10.1007/s10664-025-10624-2.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
