@@ -16,12 +16,12 @@ author_profile: true
 {% endfor %}
 
 ## 2026
-Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
+Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](https://arxiv.org/pdf/2507.20439v1), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
 
-Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
+Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](https://arxiv.org/pdf/2506.02978), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
 
 ## 2025
-Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](), in ACM Computing Surveys, to appear.
+Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](https://dl.acm.org/doi/epdf/10.1145/3762170), in ACM Computing Surveys, 58(3): 77:1-77:38 (2026).
 
 Amal AKLI, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models”](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
