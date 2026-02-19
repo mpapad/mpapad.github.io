@@ -20,8 +20,9 @@ Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica S
 
 Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](https://arxiv.org/pdf/2506.02978), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
 
-Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ”CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift”, in IEEE Transactions on Software Engineering Journal (TSE), to appear.
-Yu Pei, Jeongju Sohn and Mike Papadakis. ”An Empirical Study of Web Visual Flakiness: Character- isation and Fix Strategies”, in Journal of Systems and Software (JSS), to appear.
+Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ”CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift”, in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+
+Yu Pei, Jeongju Sohn and Mike Papadakis. ”An Empirical Study of Web Visual Flakiness: Character- isation and Fix Strategies”, in Journal of Systems and Software (**JSS**), to appear.
 
 Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ”GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding”, in Empirical Software Engineering Journal (**EMSE**), to appear.
 
