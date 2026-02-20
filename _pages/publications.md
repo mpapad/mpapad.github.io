@@ -18,6 +18,10 @@ author_profile: true
 ## 2026
 Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](https://arxiv.org/pdf/2507.20439v1), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
 
+Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
+
+Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
+
 Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](https://arxiv.org/pdf/2506.02978), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
 
 Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ["CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift"]() in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
