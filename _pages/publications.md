@@ -36,7 +36,7 @@ Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, T
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
 
-Hilal Taha, M. Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continu- ous Integration and Failure Patterns under UI/DOM Evolution"](), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
+Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continu- ous Integration and Failure Patterns under UI/DOM Evolution"](), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
 
 Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Finan- cial Language Models"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
 
