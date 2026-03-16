@@ -32,6 +32,9 @@ Yu Pei, Jeongju Sohn and Mike Papadakis. ["An Empirical Study of Web Visual Flak
 
 Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ["GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding"](), in Empirical Software Engineering Journal (**EMSE**), to appear.
 
+Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Em- pirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+
+
 
 ## 2025
 Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](https://dl.acm.org/doi/epdf/10.1145/3762170), in ACM Computing Surveys, 58(3): 77:1-77:38 (2026).
