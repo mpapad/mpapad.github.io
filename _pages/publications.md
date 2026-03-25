@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %}
 
 ## 2026
+
+Bo Wang, Ming Deng, Mingda Chen, Chengran Yang, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["Boosting LLMs for Mutation Generation"](), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.
+
 Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](https://arxiv.org/pdf/2507.20439v1), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
 
 Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
