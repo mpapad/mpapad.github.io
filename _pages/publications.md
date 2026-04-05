@@ -25,7 +25,7 @@ Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation 
 
 Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Em- pirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
