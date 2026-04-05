@@ -41,7 +41,7 @@ Yu Pei, Jeongju Sohn and Mike Papadakis. ["An Empirical Study of Web Visual Flak
 
 Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ["GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding"](), in Empirical Software Engineering Journal (**EMSE**), to appear.
 
-Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Em- pirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
 
