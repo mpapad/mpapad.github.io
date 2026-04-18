@@ -21,6 +21,8 @@ Bo Wang, Ming Deng, Mingda Chen, Chengran Yang, Youfang Lin, Mark Harman, Mike P
 
 Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](https://arxiv.org/pdf/2507.20439v1), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
 
+Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
+
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
