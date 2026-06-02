@@ -29,6 +29,8 @@ Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Ji
 
 Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
+Rafael Ramires, Ana Respício, Mike Papadakis, Ibéria Medeiros. ["Empowering Large Language Models with Static Analysis for Effective Vulnerability Detection"](), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2026.
+
 Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
 Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
