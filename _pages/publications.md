@@ -25,6 +25,8 @@ Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
+Xueqi Dang, Yinghua LI, Wendkûuni Ouédraogo, Maxime Cordy, Mike  Papadakis, Jacques  Klein, Tegawende  Bissyande, Yves  Le Traon. ["LongTest: Test Prioritization for Long Text Files"](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+
 Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
