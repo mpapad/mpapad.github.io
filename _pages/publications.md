@@ -49,6 +49,9 @@ Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. 
 
 Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
+
+Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Perrouin. ["RESTSpecIT: REST API Specification Generation with LLM-assisted Request Mutations"](), in 42nd IEEE Interna- tional Conference on Software Maintenance and Evolution (ICSME), Tool Demonstration and Data Showcase Track, 2026.
+
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
 
 Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continu- ous Integration and Failure Patterns under UI/DOM Evolution"](), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
