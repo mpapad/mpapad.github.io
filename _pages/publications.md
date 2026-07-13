@@ -62,6 +62,8 @@ Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias
 
 Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analysis on stock price movement prediction"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
 
+Saad Memon, Rafal Graczyk, Jan Swakon, Leszek Grzanka, Sebastian Kusyk and Mike Papadakis. ["Not All Upsets Are Equal: A Measured Test of Whether SECDED Suffices for Radiation-Exposed COTS Memory"](), in the 37th Edition of the European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (**ESREF**) 2026.
+
 
 
 ## 2025
