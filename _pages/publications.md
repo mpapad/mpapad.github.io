@@ -52,13 +52,13 @@ Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. 
 Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 
-Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Perrouin. ["RESTSpecIT: REST API Specification Generation with LLM-assisted Request Mutations"](), in 42nd IEEE Interna- tional Conference on Software Maintenance and Evolution (**ICSME**), Tool Demonstration and Data Showcase Track, 2026.
+Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Perrouin. ["RESTSpecIT: REST API Specification Generation with LLM-assisted Request Mutations"](), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), Tool Demonstration and Data Showcase Track, 2026.
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
 
-Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continu- ous Integration and Failure Patterns under UI/DOM Evolution"](), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
+Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continuous Integration and Failure Patterns under UI/DOM Evolution"](), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
 
-Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Finan- cial Language Models"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
+Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Financial Language Models"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
 
 Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analysis on stock price movement prediction"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
 
@@ -113,7 +113,7 @@ Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le
 
 Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“Test input prioritization for Machine Learning Classifiers”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382258), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Zeming Dong, Qiang Hu, Zhenya Zhang, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon and Jianjun Zhao. [“On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Lan- guage Processing”](https://arxiv.org/pdf/2210.03123), in Journal of Systems and Software (**JSS**), to appear.
+Zeming Dong, Qiang Hu, Zhenya Zhang, Yuejun Guo, Maxime Cordy, Mike Papadakis, Yves Le Traon and Jianjun Zhao. [“On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing”](https://arxiv.org/pdf/2210.03123), in Journal of Systems and Software (**JSS**), to appear.
 
 Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy and Yves Le Traon. [“Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study”](https://link.springer.com/content/pdf/10.1007/s10664-024-10515-y.pdf), in Empirical Software Engineering Journal (**EMSE**). 
 
@@ -130,7 +130,7 @@ Milos Ojdanic, Aayush Garg, Ahmed Khanfir, Renzo Degiovanni, Mike Papadakis, Yve
 
 Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. [“GraphPrior: Mutation-based Test Input Prioritization for Graph Neural Networks”](https://dl.acm.org/doi/pdf/10.1145/3607191), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Yuejun Guo, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“KAPE: kNN-Based Performance Testing for Deep Code Search”](https://dl.acm.org/doi/pdf/10.1145/3624735), in ACM Transactions on Software Engineering and Method- ology Journal (**TOSEM**), to appear.
+Yuejun Guo, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“KAPE: kNN-Based Performance Testing for Deep Code Search”](https://dl.acm.org/doi/pdf/10.1145/3624735), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing”](https://dl.acm.org/doi/pdf/10.1145/3611666), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
