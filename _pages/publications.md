@@ -65,6 +65,10 @@ Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analy
 Saad Memon, Rafal Graczyk, Jan Swakon, Leszek Grzanka, Sebastian Kusyk and Mike Papadakis. ["Not All Upsets Are Equal: A Measured Test of Whether SECDED Suffices for Radiation-Exposed COTS Memory"](), in the 37th Edition of the European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (**ESREF**) 2026.
 
 
+Laura Plein, Matthieu Jimenez and Mike Papadakis. ["PyMut4SE: Comprehensive Mutation Testing for Python"](), in the International Symposium on Software Testing and Analysis (**SPLASH/ISSTA**)-Demo, 2026.
+
+
+
 
 ## 2025
 Ezekiel O. Soremekun, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Software Fairness: An Analysis and Survey](https://dl.acm.org/doi/epdf/10.1145/3762170), in ACM Computing Surveys, 58(3): 77:1-77:38 (2026).
