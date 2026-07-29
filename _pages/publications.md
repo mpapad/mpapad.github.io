@@ -33,13 +33,13 @@ Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, T
 
 Rafael Ramires, Ana Respício, Mike Papadakis, Ibéria Medeiros. ["Empowering Large Language Models with Static Analysis for Effective Vulnerability Detection"](), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2026.
 
-Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. “Exposing Hidden Intersectional Bias in LLMs” n the IEEE International Symposium on Soft- ware Reliability Engineering (**ISSRE**) 2026.
+Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. “Exposing Hidden Intersectional Bias in LLMs” n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
 
 Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
 Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
-Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Test- ing: Translating Code to Natural Language Intent and back"](), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
+Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Testing: Translating Code to Natural Language Intent and back"](), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
 
 Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](https://arxiv.org/pdf/2506.02978), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
 
