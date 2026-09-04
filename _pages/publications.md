@@ -27,8 +27,6 @@ Kenneth Paulsen, Florian Tambon, Mike Papadakis, Shin Yoo. ["Synthetic Semantic 
 
 Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defects in Code Generation Prompts: Empirical Impact and Lightweight Detection"](), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
-
-
 Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
@@ -41,7 +39,7 @@ Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, T
 
 Rafael Ramires, Ana Respício, Mike Papadakis, Ibéria Medeiros. ["Empowering Large Language Models with Static Analysis for Effective Vulnerability Detection"](), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2026.
 
-Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. “Exposing Hidden Intersectional Bias in LLMs” n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
+Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. ["Exposing Hidden Intersectional Bias in LLMs"](), n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
 
 Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
