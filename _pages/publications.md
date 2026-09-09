@@ -35,15 +35,15 @@ Xueqi Dang, Yinghua LI, Wendkûuni Ouédraogo, Maxime Cordy, Mike  Papadakis, Ja
 
 Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](pdfs/TOSEM2026-2.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](pdfs/.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](pdfs/TOSEM2026-3.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Rafael Ramires, Ana Respício, Mike Papadakis, Ibéria Medeiros. ["Empowering Large Language Models with Static Analysis for Effective Vulnerability Detection"](pdfs/.pdf), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2026.
 
-Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. ["Exposing Hidden Intersectional Bias in LLMs"](pdfs/.pdf), n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
+Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. ["Exposing Hidden Intersectional Bias in LLMs"](pdfs/ISSRE2026.pdf), n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
 
-Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](pdfs/.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
+Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](pdfs/ICST2026-1.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
-Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](pdfs/.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
+Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](pdfs/ICST2026-2.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
 Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Testing: Translating Code to Natural Language Intent and back"](pdfs/.pdf), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
 
