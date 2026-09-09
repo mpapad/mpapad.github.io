@@ -45,17 +45,17 @@ Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based 
 
 Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](pdfs/ICST2026-2.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
-Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Testing: Translating Code to Natural Language Intent and back"](pdfs/.pdf), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
+Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Testing: Translating Code to Natural Language Intent and back"](pdfs/Mutation2026.pdf), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
 
 Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](https://arxiv.org/pdf/2506.02978), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
 
-Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ["CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift"](pdfs/.pdf) in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ["CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift"](https://ieeexplore-ieee-org.proxy.bnl.lu/document/11429608) in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Yu Pei, Jeongju Sohn and Mike Papadakis. ["An Empirical Study of Web Visual Flakiness: Characterisation and Fix Strategies"](pdfs/.pdf), in Journal of Systems and Software (**JSS**), to appear.
+Yu Pei, Jeongju Sohn and Mike Papadakis. ["An Empirical Study of Web Visual Flakiness: Characterisation and Fix Strategies"](pdfs/JSS2026.pdf), in Journal of Systems and Software (**JSS**), to appear.
 
-Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ["GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding"](pdfs/.pdf), in Empirical Software Engineering Journal (**EMSE**), to appear.
+Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ["GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding"](https://arxiv.org/pdf/2402.15769), in Empirical Software Engineering Journal (**EMSE**), to appear.
 
-Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](pdfs/.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](pdfs/TOSEM2026-4.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 
 Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Perrouin. ["RESTSpecIT: REST API Specification Generation with LLM-assisted Request Mutations"](pdfs/.pdf), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), Tool Demonstration and Data Showcase Track, 2026.
