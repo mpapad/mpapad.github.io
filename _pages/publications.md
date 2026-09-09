@@ -62,16 +62,16 @@ Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Pe
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](pdfs/Web_evolution_dataset.pdf), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
 
-Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continuous Integration and Failure Patterns under UI/DOM Evolution"](pdfs/.pdf), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
+Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continuous Integration and Failure Patterns under UI/DOM Evolution"](https://dl.acm.org/doi/epdf/10.1145/3794763.3798173), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
 
-Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Financial Language Models"](pdfs/.pdf), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
+Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Financial Language Models"](https://arxiv.org/pdf/2603.08267), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
 
-Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analysis on stock price movement prediction"](pdfs/.pdf), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
+Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analysis on stock price movement prediction"](https://arxiv.org/pdf/2602.00086), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
 
-Saad Memon, Rafal Graczyk, Jan Swakon, Leszek Grzanka, Sebastian Kusyk and Mike Papadakis. ["Not All Upsets Are Equal: A Measured Test of Whether SECDED Suffices for Radiation-Exposed COTS Memory"](pdfs/.pdf), in the 37th Edition of the European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (**ESREF**) 2026.
+Saad Memon, Rafal Graczyk, Jan Swakon, Leszek Grzanka, Sebastian Kusyk and Mike Papadakis. ["Not All Upsets Are Equal: A Measured Test of Whether SECDED Suffices for Radiation-Exposed COTS Memory"](), in the 37th Edition of the European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (**ESREF**) 2026.
 
 
-Laura Plein, Matthieu Jimenez and Mike Papadakis. ["PyMut4SE: Comprehensive Mutation Testing for Python"](pdfs/.pdf), in the International Symposium on Software Testing and Analysis (**SPLASH/ISSTA**)-Demo, 2026.
+Laura Plein, Matthieu Jimenez and Mike Papadakis. ["PyMut4SE: Comprehensive Mutation Testing for Python"](pdfs/ISSTA2026.pdf), in the International Symposium on Software Testing and Analysis (**SPLASH/ISSTA**)-Demo, 2026.
 
 
 
