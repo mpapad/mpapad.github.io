@@ -29,49 +29,49 @@ Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defec
 
 Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](pdfs/ICWE2026.pdf), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
 
-Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](pdfs/TOSEM2024-1.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](pdfs/TOSEM2026-1.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Xueqi Dang, Yinghua LI, Wendkûuni Ouédraogo, Maxime Cordy, Mike  Papadakis, Jacques  Klein, Tegawende  Bissyande, Yves  Le Traon. ["LongTest: Test Prioritization for Long Text Files"](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+Xueqi Dang, Yinghua LI, Wendkûuni Ouédraogo, Maxime Cordy, Mike  Papadakis, Jacques  Klein, Tegawende  Bissyande, Yves  Le Traon. ["LongTest: Test Prioritization for Long Text Files"](pdfs/TSE-2026-1.pdf), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["A Comprehensive Study on Large Language Models for Mutation Testing"](pdfs/TOSEM2026-2.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Xueqi Dang, Yinghua Li, Wendkuuni Ou ́edraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["TrajectoryTest: A Trajectory-Specific Test Input Prioritization Technique and Empirical Evaluation"](pdfs/.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
-Rafael Ramires, Ana Respício, Mike Papadakis, Ibéria Medeiros. ["Empowering Large Language Models with Static Analysis for Effective Vulnerability Detection"](), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2026.
+Rafael Ramires, Ana Respício, Mike Papadakis, Ibéria Medeiros. ["Empowering Large Language Models with Static Analysis for Effective Vulnerability Detection"](pdfs/.pdf), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), 2026.
 
-Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. ["Exposing Hidden Intersectional Bias in LLMs"](), n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
+Badr Souani, Ezekiel Soremekun, Mike Papadakis, Setsuko Yokoyama, Sudipta Chattopadhyay and Yves Le Traon. ["Exposing Hidden Intersectional Bias in LLMs"](pdfs/.pdf), n the IEEE International Symposium on Software Reliability Engineering (**ISSRE**) 2026.
 
-Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
+Michael Konstantinou, Renzo Degiovanni and Mike Papadakis. ["How well LLM-based test generation techniques perform with newer LLM versions?"](pdfs/.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
-Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
+Yu Pei, Jeongju Sohn, Sarra Habchi and Mike Papadakis. ["Pinpointing Flakiness in Web Tests via DOM Event Analysis and LLM-based Reasoning"](pdfs/.pdf), in 19th IEEE International Conference on Software Testing, Verification and Validation (**ICST**) 2026.
 
-Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Testing: Translating Code to Natural Language Intent and back"](), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
+Asma Sadjida Hamidi, Cedric Richter, Ahmed Khanfir and Mike Papadakis. ["Round-Trip Mutation Testing: Translating Code to Natural Language Intent and back"](pdfs/.pdf), in the 21st International Workshop on Mutation Analysis (**MUTATION**), 2026.
 
 Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis. ["On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses"](https://arxiv.org/pdf/2506.02978), in the IEEE Conference on Secure and Trustworthy Machine Learning (**SaTML**) 2026.
 
-Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ["CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift"]() in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
+Ziyue Shi, Junjie Wang, Yuejun Guo, Xiaofei Xie, Qiang Hu, Maxime Cordy, Sen Chen, Mike Papadakis, Yves Le Traon, Yongqiang Lyu. ["CodeS+: Towards Assessing the Generalization Ability of Code Models Under Distribution Shift"](pdfs/.pdf) in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
-Yu Pei, Jeongju Sohn and Mike Papadakis. ["An Empirical Study of Web Visual Flakiness: Characterisation and Fix Strategies"](), in Journal of Systems and Software (**JSS**), to appear.
+Yu Pei, Jeongju Sohn and Mike Papadakis. ["An Empirical Study of Web Visual Flakiness: Characterisation and Fix Strategies"](pdfs/.pdf), in Journal of Systems and Software (**JSS**), to appear.
 
-Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ["GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding"](), in Empirical Software Engineering Journal (**EMSE**), to appear.
+Zeming Dong, Qiang Hu, Xiaofei Xie, Maxime Cordy, Mike Papadakis, Jianjun Zhao. ["GenCode: A Generic Data Augmentation Framework for Boosting Deep Learning-Based Code Understanding"](pdfs/.pdf), in Empirical Software Engineering Journal (**EMSE**), to appear.
 
-Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
-
-
-Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Perrouin. ["RESTSpecIT: REST API Specification Generation with LLM-assisted Request Mutations"](), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), Tool Demonstration and Data Showcase Track, 2026.
-
-Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
-
-Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continuous Integration and Failure Patterns under UI/DOM Evolution"](), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
-
-Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Financial Language Models"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
-
-Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analysis on stock price movement prediction"](), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
-
-Saad Memon, Rafal Graczyk, Jan Swakon, Leszek Grzanka, Sebastian Kusyk and Mike Papadakis. ["Not All Upsets Are Equal: A Measured Test of Whether SECDED Suffices for Radiation-Exposed COTS Memory"](), in the 37th Edition of the European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (**ESREF**) 2026.
+Xueqi Dang, Yinghua Li, Wendkuuni Ouedraogo, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon. ["Testing Techniques in Deep Learning Systems: A Survey"](pdfs/.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 
-Laura Plein, Matthieu Jimenez and Mike Papadakis. ["PyMut4SE: Comprehensive Mutation Testing for Python"](), in the International Symposium on Software Testing and Analysis (**SPLASH/ISSTA**)-Demo, 2026.
+Alix Decrop, Xavier Devroey, Mike Papadakis, Pierre-Yves Schobbens and Gilles Perrouin. ["RESTSpecIT: REST API Specification Generation with LLM-assisted Request Mutations"](pdfs/.pdf), in 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME**), Tool Demonstration and Data Showcase Track, 2026.
+
+Hilal Taha, Jeongju Sohn and Mike Papadakis. ["MiningWeb Evolution: A Dataset of DOM Changes Across Websites"](pdfs/.pdf), in the 16th Temporal Web Analytics Workshop (**TempWeb**) 2026.
+
+Hilal Taha, Mike Papadakis, Joel Muller. ["Industrial Replication of COLOR: Locator Repair in Continuous Integration and Failure Patterns under UI/DOM Evolution"](pdfs/.pdf), in the 34th IEEE/ACM International Conference on Program Comprehension (**ICPC**) 2026.
+
+Firas Hadj Kacem, Ahmed Khanfir, Mike Papadakis. ["Towards a more efficient bias detection in Financial Language Models"](pdfs/.pdf), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
+
+Walid Siala, Ahmed Khanfir, Mike Papadakis. ["Impact of LLM news sentiment analysis on stock price movement prediction"](pdfs/.pdf), in the 2nd Workshop on Advances in Financial AI Workshop: Towards Agentic and Responsible Systems, 2026.
+
+Saad Memon, Rafal Graczyk, Jan Swakon, Leszek Grzanka, Sebastian Kusyk and Mike Papadakis. ["Not All Upsets Are Equal: A Measured Test of Whether SECDED Suffices for Radiation-Exposed COTS Memory"](pdfs/.pdf), in the 37th Edition of the European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (**ESREF**) 2026.
+
+
+Laura Plein, Matthieu Jimenez and Mike Papadakis. ["PyMut4SE: Comprehensive Mutation Testing for Python"](pdfs/.pdf), in the International Symposium on Software Testing and Analysis (**SPLASH/ISSTA**)-Demo, 2026.
 
 
 
