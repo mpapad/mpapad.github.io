@@ -17,15 +17,15 @@ author_profile: true
 
 ## 2026
 
-Bo Wang, Ming Deng, Mingda Chen, Chengran Yang, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["Boosting LLMs for Mutation Generation"](), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.
+Bo Wang, Ming Deng, Mingda Chen, Chengran Yang, Youfang Lin, Mark Harman, Mike Papadakis and Jie Zhang. ["Boosting LLMs for Mutation Generation"](pdfs/FSE_2026.pdf), in the ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.
 
 Maya Larbi, Amal Akli, Mike Papadakis, Rihab Bouyousfi, Maxime Cordy, Federica Sarro, Yves Le Traon. ["When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions"](https://arxiv.org/pdf/2507.20439v1), in the 48th International Conference on Software Engineering (**ICSE**), 2026.
 
-Vincenzo Collura, Karim TIT, Eleonora Giunchiglia, Mike Papadakis, Maxime Cordy. ["Stay Within Your Bounds: Distance-Guided Decoding for Guaranteed Context-Free Grammar Compliance"](), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
+Vincenzo Collura, Karim TIT, Eleonora Giunchiglia, Mike Papadakis, Maxime Cordy. ["Stay Within Your Bounds: Distance-Guided Decoding for Guaranteed Context-Free Grammar Compliance"](pdfs/EMNLP_2026-3.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
-Kenneth Paulsen, Florian Tambon, Mike Papadakis, Shin Yoo. ["Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study"](), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
+Kenneth Paulsen, Florian Tambon, Mike Papadakis, Shin Yoo. ["Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study"](pdfs/EMNLP_2026-2.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
-Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defects in Code Generation Prompts: Empirical Impact and Lightweight Detection"](), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
+Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defects in Code Generation Prompts: Empirical Impact and Lightweight Detection"](pdfs/EMNLP_2026-1.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
 Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
 
