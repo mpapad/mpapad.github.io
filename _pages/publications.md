@@ -27,9 +27,9 @@ Kenneth Paulsen, Florian Tambon, Mike Papadakis, Shin Yoo. ["Synthetic Semantic 
 
 Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defects in Code Generation Prompts: Empirical Impact and Lightweight Detection"](pdfs/EMNLP_2026-1.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
-Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
+Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](pdfs/ICWE2026.pdf), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
 
-Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
+Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](pdfs/TOSEM2024-1.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
 
 Xueqi Dang, Yinghua LI, Wendkûuni Ouédraogo, Maxime Cordy, Mike  Papadakis, Jacques  Klein, Tegawende  Bissyande, Yves  Le Traon. ["LongTest: Test Prioritization for Long Text Files"](), in IEEE Transactions on Software Engineering Journal (**TSE**), to appear.
 
