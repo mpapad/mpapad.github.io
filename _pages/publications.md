@@ -29,6 +29,8 @@ Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defec
 
 Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](pdfs/ICWE2026.pdf), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
 
+Saad Memon, Rafal Graczyk, Tomasz Rajkowski, Jan Swakon, Damian Wrobel, Sebastian Kusyk, Seth Roffe, Mike Papadakis. ["Where Linux Breaks Under Radiation: A Cross-Architecture Kernel-Level Characterization of Proton-Induced Failures in COTS SoCs"](https://arxiv.org/pdf/2503.03722) in IEEE Transactions on Dependable and Secure Computing (**TDSC**), to appear.
+
 Dorian Joubaud, Matthieu Olekhnovitch, Adrien Bolling, Evgeny Zotov, Sylvain KUBLER, Maxime Cordy, Mike Papadakis, Yves Le Traon. ["ASCENSION: Autoencoder-Based Latent Space Class Expansion for Time Series Data Augmentation"](https://openreview.net/pdf?id=7KFXjf7K2o), Transactions on Machine Learning Research, (**TMRL**), September 2026.
 
 Hilal Taha, Jeongju Sohn and Mike Papadakis. ["EAGL: Evolution-Aware Generation of Robust Locators"](pdfs/TOSEM2026-1.pdf), in ACM Transactions on Software Engineering and Methodology Journal (**TOSEM**), to appear.
