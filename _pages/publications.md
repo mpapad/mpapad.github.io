@@ -25,7 +25,7 @@ Vincenzo Collura, Karim TIT, Eleonora Giunchiglia, Mike Papadakis, Maxime Cordy.
 
 Kenneth Paulsen, Florian Tambon, Mike Papadakis, Shin Yoo. ["Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study"](pdfs/EMNLP_2026-2.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
-Amal AKLI, Mike Papadakis, Maxime Cordy, YVES LE TRAON. ["Natural Language Defects in Code Generation Prompts: Empirical Impact and Lightweight Detection"](pdfs/EMNLP_2026-1.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
+Amal AKLI, Mike Papadakis, Maxime Cordy, Yves Le Traon. ["Natural Language Defects in Code Generation Prompts: Empirical Impact and Lightweight Detection"](pdfs/EMNLP_2026-1.pdf), in the 2026 Findings of the Association for Computational Linguistics (**EMNLP**), 2026.
 
 Alix Decrop, Mike Papadakis and Gilles Perrouin. ["Analyzing Status Code Misuses in REST API Specifications"](pdfs/ICWE2026.pdf), in the 26th International Conference on Web Engineering (**ICWE**), 2026.
 
